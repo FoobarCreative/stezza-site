@@ -136,6 +136,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  guides:
+    output: true
+    permalink: /guides/:slug/
 
 # Markdown rendering
 markdown: kramdown
