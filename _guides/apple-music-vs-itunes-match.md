@@ -26,7 +26,7 @@ They are **separate products**, billed separately, and do different jobs. They c
 
 ## Apple Music in detail
 
-**Cost:** a monthly subscription (individual, family, and student plans available). Check [apple.com/apple-music](https://www.apple.com/apple-music/) for current pricing in your region.
+**Cost:** $10.99/month for the Individual plan in the US (family and student plans also available). [apple.com/apple-music](https://www.apple.com/apple-music/) has current pricing for your region.
 
 **What you get:**
 - Stream anything from Apple's full catalogue.
@@ -40,7 +40,7 @@ They are **separate products**, billed separately, and do different jobs. They c
 
 ## iTunes Match in detail
 
-**Cost:** an annual subscription. Check Apple's current pricing in your region when you subscribe.
+**Cost:** $24.99/year in the US.
 
 **What you get:**
 - Scans your personal music library (up to 100,000 songs, excluding iTunes Store purchases which don't count against the limit).

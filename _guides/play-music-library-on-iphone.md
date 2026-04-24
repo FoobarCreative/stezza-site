@@ -38,7 +38,7 @@ Synced music lives on the device permanently (until you remove it), plays offlin
 
 ## Option 2: Apple Music
 
-Apple Music is a streaming subscription (individual, family, and student plans — see [apple.com/apple-music](https://www.apple.com/apple-music/) for current pricing). You get:
+Apple Music is a streaming subscription — $10.99/month for the Individual plan in the US (family and student plans also available). You get:
 
 - The full Apple Music catalogue — stream any song on demand.
 - **Sync Library** — your personal music library mirrored to the cloud, available on all your signed-in devices.
@@ -48,7 +48,7 @@ If you're already paying for Apple Music, you don't need to sync from a computer
 
 ## Option 3: iTunes Match
 
-iTunes Match is Apple's cloud locker for music you own, billed annually. It matches your library against the iTunes Store and uploads anything it can't match. Your library becomes available on all devices.
+iTunes Match ($24.99/year in the US) is Apple's cloud locker for music you own. It matches your library against the iTunes Store and uploads anything it can't match. Your library becomes available on all devices.
 
 Unlike Apple Music, iTunes Match **doesn't give you access to Apple's catalogue** — only your own music.
 

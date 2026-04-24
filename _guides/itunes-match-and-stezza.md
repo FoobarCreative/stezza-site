@@ -19,7 +19,7 @@ Short answer: **yes**. iTunes Match puts your personal music library in the clou
 
 ## What iTunes Match does
 
-iTunes Match is Apple's cloud locker service for music you already own. For an annual subscription fee, Apple scans your library (up to 100,000 songs), matches each track to the iTunes Store catalogue where possible, and uploads the rest. You can then access your entire library on any device signed into the same Apple ID.
+iTunes Match is Apple's cloud locker service for music you already own. For $24.99/year in the US, Apple scans your library (up to 100,000 songs), matches each track to the iTunes Store catalogue where possible, and uploads the rest. You can then access your entire library on any device signed into the same Apple ID.
 
 It's **not** a streaming catalogue — you only get access to *your own music*. If you want Apple's catalogue of ~100 million songs, that's Apple Music (see [Apple Music vs iTunes Match](/guides/apple-music-vs-itunes-match/)).
 
