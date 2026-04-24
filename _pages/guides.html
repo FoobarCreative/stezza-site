@@ -22,7 +22,7 @@ description: "Guides and tips to get the most out of Stezza — the simple, styl
     {% assign category_guides = site.guides | where: "category", category | sort: "priority" %}
     {% if category_guides.size > 0 %}
     <section style="margin-bottom: 4em;">
-      <h2 id="{{ category | slugify }}" style="display: flex; align-items: center; gap: 0.5em; margin-bottom: 1.5em; color: {{ site.default_primary }};">
+      <h2 id="{{ category | slugify }}" style="display: flex; align-items: center; gap: 0.5em; margin-bottom: 1.5em; color: #7C4199;">
         <span style="font-size: 1.5em;">{{ category_icons[forloop.index0] }}</span>
         {{ category }}
       </h2>
@@ -32,7 +32,7 @@ description: "Guides and tips to get the most out of Stezza — the simple, styl
             <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em;">
               <div style="font-size: 2em;">{{ category_icons[forloop.parentloop.index0] }}</div>
               <div style="flex: 1;">
-                <h3 style="margin: 0 0 0.5em 0; color: {{ site.default_primary }}; font-size: 1.1em;">{{ guide.short_title | default: guide.title }}</h3>
+                <h3 style="margin: 0 0 0.5em 0; color: #7C4199; font-size: 1.1em;">{{ guide.short_title | default: guide.title }}</h3>
                 <p style="margin: 0; font-size: 0.9em; color: #666; line-height: 1.5;">{{ guide.description }}</p>
               </div>
             </div>
@@ -51,12 +51,12 @@ description: "Guides and tips to get the most out of Stezza — the simple, styl
     {% endif %}
   {% endfor %}
 
-  <section style="background: linear-gradient(135deg, {{ site.default_primary }} 0%, {{ site.dark_primary }} 100%); color: white; padding: 3em 2em; border-radius: 16px; text-align: center; margin-top: 4em;">
+  <section style="background: linear-gradient(135deg, #7C4199 0%, #9B5FBF 100%); color: white; padding: 3em 2em; border-radius: 16px; text-align: center; margin-top: 4em;">
     <h2 style="color: white; margin-top: 0; font-size: 2em;">Enjoy your music, your way</h2>
     <p style="font-size: 1.1em; margin-bottom: 2em; opacity: 0.95;">
       Stezza is a simple, stylish music player built for your iTunes and Apple Music library.
     </p>
-    <a href="{{ site.appstore_link }}" style="display: inline-block; background: white; color: {{ site.default_primary }}; padding: 1em 2.5em; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 1.1em; transition: transform 0.2s;">
+    <a href="{{ site.appstore_link }}" style="display: inline-block; background: white; color: #7C4199; padding: 1em 2.5em; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 1.1em; transition: transform 0.2s;">
       Get Stezza
     </a>
   </section>
@@ -65,7 +65,7 @@ description: "Guides and tips to get the most out of Stezza — the simple, styl
 
 <style>
   .guides-hub a:hover {
-    border-color: {{ site.default_primary }} !important;
+    border-color: #7C4199 !important;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     transform: translateY(-2px);
   }

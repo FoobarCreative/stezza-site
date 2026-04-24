@@ -20,7 +20,7 @@
                 </nav>
 
                 {% if page.category %}
-                <div class="category-badge" style="display: inline-block; background: {{ site.default_primary }}; color: white; padding: 0.25em 0.75em; border-radius: 4px; font-size: 0.85em; margin-bottom: 1em;">
+                <div class="category-badge" style="display: inline-block; background: #7C4199; color: white; padding: 0.25em 0.75em; border-radius: 4px; font-size: 0.85em; margin-bottom: 1em;">
                     {{ page.category }}
                 </div>
                 {% endif %}
@@ -51,8 +51,8 @@
                     {% for guide_id in page.related %}
                         {% assign guide = site.guides | where: "item_id", guide_id | first %}
                         {% if guide %}
-                        <a href="{{ guide.url | relative_url }}" target="_self" style="display: block; padding: 1em; background: #f5f5f5; border-radius: 8px; text-decoration: none; color: inherit; border-left: 4px solid {{ site.default_primary }};">
-                            <strong style="color: {{ site.default_primary }};">{{ guide.short_title | default: guide.title }}</strong>
+                        <a href="{{ guide.url | relative_url }}" target="_self" style="display: block; padding: 1em; background: #f5f5f5; border-radius: 8px; text-decoration: none; color: inherit; border-left: 4px solid #7C4199;">
+                            <strong style="color: #7C4199;">{{ guide.short_title | default: guide.title }}</strong>
                             <p style="margin: 0.5em 0 0 0; font-size: 0.9em; color: #666;">{{ guide.description | truncate: 120 }}</p>
                         </a>
                         {% endif %}
@@ -62,10 +62,10 @@
 
                 <hr style="margin: 3em 0;">
 
-                <div class="app-cta" style="background: linear-gradient(135deg, {{ site.default_primary }} 0%, {{ site.dark_primary }} 100%); color: white; padding: 2em; border-radius: 12px; text-align: center;">
+                <div class="app-cta" style="background: linear-gradient(135deg, #7C4199 0%, #9B5FBF 100%); color: white; padding: 2em; border-radius: 12px; text-align: center;">
                     <h2 style="color: white; margin-top: 0;">Enjoy your music, your way</h2>
                     <p style="margin-bottom: 1.5em;">Stezza is a simple, stylish music player built for your iTunes and Apple Music library.</p>
-                    <a href="{{ site.appstore_link }}" style="display: inline-block; background: white; color: {{ site.default_primary }}; padding: 0.75em 2em; border-radius: 8px; text-decoration: none; font-weight: bold;">
+                    <a href="{{ site.appstore_link }}" style="display: inline-block; background: white; color: #7C4199; padding: 0.75em 2em; border-radius: 8px; text-decoration: none; font-weight: bold;">
                         Get Stezza
                     </a>
                 </div>
@@ -73,7 +73,7 @@
                 <footer class="guide-footer" style="margin-top: 3em; padding-top: 2em; border-top: 1px solid #e0e0e0; font-size: 0.85em; color: #888;">
                     <p>
                         <strong>Was this guide helpful?</strong>
-                        <a href="mailto:{{ site.email_address }}?subject=Feedback: {{ page.title }}" style="color: {{ site.link_color }};">Send feedback</a>
+                        <a href="mailto:{{ site.email_address }}?subject=Feedback: {{ page.title }}" style="color: #7C4199;">Send feedback</a>
                     </p>
 
                     {% if page.date %}
