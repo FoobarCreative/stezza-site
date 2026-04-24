@@ -140,6 +140,13 @@ collections:
     output: true
     permalink: /guides/:slug/
 
+defaults:
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "guide"
+
 # Markdown rendering
 markdown: kramdown
 
