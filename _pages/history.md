@@ -3,7 +3,7 @@ layout: page
 title: History
 permalink: /history/
 include_in_header: true
-description: "A look back at Stezza's journey since 2013 — from a Metro-inspired iPhone music player to today's iOS 18 app, including its time on Pioneer's AppRadio platform."
+description: "A look back at Stezza's journey since 2013 — from a Metro-inspired iPhone music player to the upcoming Stezza 3.0 with iOS 26's Liquid Glass design."
 ---
 
 # A Brief History of Stezza
@@ -18,15 +18,23 @@ This page is a casual look back at how Stezza got here.
 
 Stezza was created by independent developer Ricardo Santos (now Foobar Creative). The first release shipped at a time when iOS music apps were largely modelled on Apple's stock Music app — list views, small controls, a UI optimised for browsing rather than playback.
 
-Stezza took the opposite approach. Inspired by the **Metro design language** that had emerged in Windows 8 and Windows Phone, it leaned into large flat tiles, generous whitespace, and controls that you could hit without looking. The design choices were originally aimed at drivers and active users — but it turned out to also make the app exceptionally accessible for people with limited motor control or low vision.
+Stezza took the opposite approach. Inspired by Microsoft's **Metro design language** that had emerged in Windows 8 and Windows Phone — bold flat tiles, generous whitespace, type-led layouts — Stezza 1.0 was born.
+
+![Windows Phone Metro tile interface, the design language that inspired Stezza 1.0]({{ "/assets/history/metro-screenshot.png" | relative_url }})
+
+Big buttons, big artwork, no small touch targets. The design choices were originally aimed at drivers and active users — but it turned out to also make the app exceptionally accessible for people with limited motor control or low vision.
 
 In May 2013, Stezza added universal iPad support, scaling its tile-based interface up to the larger screen.
 
 ---
 
-## 2014 — Stezza 2.0
+## Going Modern — Dropping the Borders
 
-July 2014 brought Stezza 2.0, a substantial visual refresh that kept the Metro DNA but modernised the look for iOS 7's new flat aesthetic. The refresh added refinements like custom playlist ordering and improved audio controls, while preserving the big-button design that had become Stezza's signature.
+Stezza 1.0 wore its Metro inspiration on its sleeve, with thick black borders separating each tile. As iOS itself evolved through the iOS 7 redesign, those borders started to look heavy. We dropped them — same big-button DNA, but cleaner.
+
+![Side-by-side comparison of new Stezza without borders next to the original Stezza with thick black borders]({{ "/assets/history/new_stezza_old_stezza.png" | relative_url }})
+
+The 2.0 update in July 2014 (codename *Yergen*) consolidated the cleanup: a new theme picker, custom colour themes, blur backgrounds, a redesigned album view, video playback, and improved VoiceOver support — all sharing the same simplified geometry.
 
 ---
 
@@ -36,11 +44,11 @@ For a stretch of the early 2010s, **Pioneer's AppRadio** platform was one of the
 
 Stezza was a natural fit. Its tile-based interface scaled cleanly to AppRadio's screens, the buttons were already car-friendly, and the lack of small touch targets was a real safety advantage compared to the alternatives.
 
+![Stezza running on a Pioneer AppRadio head unit, showing album art alongside large playback controls]({{ "/assets/history/appradio_header_cropped.png" | relative_url }})
+
 [AppRadioWorld reviewed Stezza in November 2013](https://www.appradioworld.com/2013/11/stezza-is-classy-looking-music-app-for.html), calling it "easily the best looking music app for the AppRadio" and praising the "minimalistic yet fully featured interface" that made "taking control of your music very easy."
 
 As CarPlay took over the in-dash app space, the AppRadio platform was wound down. Stezza retired AppRadio support in **version 2.11 (October 2023)** and chose to focus on the iPhone itself — the big-button, one-handed design still works exceptionally well in a phone mount, without depending on a discontinued head unit standard.
-
-> *Got AppRadio screenshots from this era? We'd love to add them here.*
 
 ---
 
@@ -57,6 +65,14 @@ Stezza is still actively maintained — the most recent release was **version 2.
 Everything Stezza set out to do in 2013 still applies. The world around it just looks different now.
 
 For a full list of every release going back to 2013, see the [changelog]({{ "/changelog/" | relative_url }}).
+
+---
+
+## Coming Soon — Stezza 3.0
+
+Stezza 3.0 is in active development as a brand-new release built around Apple's **Liquid Glass** design language introduced in iOS 26. The classic Stezza DNA — big buttons, bold colour, accessibility-first design — translated for the next generation of iPhone.
+
+More to share soon.
 
 ---
 
