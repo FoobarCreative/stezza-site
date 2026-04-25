@@ -38,7 +38,7 @@ Stezza was a natural fit. Its tile-based interface scaled cleanly to AppRadio's 
 
 [AppRadioWorld reviewed Stezza in November 2013](https://www.appradioworld.com/2013/11/stezza-is-classy-looking-music-app-for.html), calling it "easily the best looking music app for the AppRadio" and praising the "minimalistic yet fully featured interface" that made "taking control of your music very easy."
 
-AppRadio was discontinued by Pioneer as **CarPlay** took over the in-dash app space, and Stezza dropped AppRadio support along the way. The era is over — but it shaped a lot of how Stezza thinks about driving and one-handed use.
+As CarPlay took over the in-dash app space, the AppRadio platform was wound down. Stezza retired AppRadio support in **version 2.11 (October 2023)** and chose to focus on the iPhone itself — the big-button, one-handed design still works exceptionally well in a phone mount, without depending on a discontinued head unit standard.
 
 > *Got AppRadio screenshots from this era? We'd love to add them here.*
 
@@ -46,15 +46,17 @@ AppRadio was discontinued by Pioneer as **CarPlay** took over the in-dash app sp
 
 ## Today
 
-Stezza has been continuously updated through the years to keep pace with iOS. The current version supports:
+Stezza is still actively maintained — the most recent release was **version 2.12 in January 2026**, and the app has shipped consistent updates every iOS cycle since launch. The current version supports:
 
-- **iOS 18**, with CarPlay for modern in-dash playback.
+- **iOS 18** and the latest iPhones.
 - **Apple Music streaming and Sync Library** — play your full Apple Music library, not just downloaded tracks.
 - **Adaptive album themes** that tint the player to match each album's artwork, plus custom color themes.
 - **Video playback** for files copied directly to the app via Finder or iTunes File Sharing.
 - **Accessibility-friendly design** — the big buttons that started as a driving feature continue to make Stezza one of the easier music players to use for people with motor or vision needs.
 
 Everything Stezza set out to do in 2013 still applies. The world around it just looks different now.
+
+For a full list of every release going back to 2013, see the [changelog]({{ "/changelog/" | relative_url }}).
 
 ---
 
