@@ -66,12 +66,12 @@ features                                  :
     fontawesome_icon_name                 : code
 
 # Style
-default_primary                           : "#1DB954"  # Spotify green
-dark_primary                              : "#1ed760"  # Lighter Spotify green
-accent                                    : "#191414"  # Spotify black
+default_primary                           : "#7C4199"  # Stezza purple
+dark_primary                              : "#9B5FBF"  # Lighter Stezza purple
+accent                                    : "#191414"
 
 # Theme Settings
-topbar_color                              : "#1DB954"
+topbar_color                              : "#7C4199"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
@@ -83,7 +83,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1ed760"
+link_color                                : "#7C4199"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
