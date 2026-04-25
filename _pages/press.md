@@ -8,9 +8,17 @@ description: "Press coverage and reviews of Stezza, the simple music player for 
 
 # Press & Reviews
 
-Stezza has been covered by tech press, lifestyle blogs, and accessibility advocates since its debut in 2013. Here's a roundup of what's been written.
+Stezza has been covered by mainstream tech press, Apple-focused publications, and accessibility advocates since its debut in 2013. Here's a roundup of what's been written.
 
 For press inquiries, contact us at [{{ site.email_address }}](mailto:{{ site.email_address }}).
+
+---
+
+## Popular Science
+
+**[The best music apps for your phone](https://www.popsci.com/best-phone-music-apps/)** — David Nield, June 2019
+
+> "Stezza scores points for an interface that's a little different from the norm. Playback control buttons and album art are large and oversized… If that's what you're looking for, we'd recommend Stezza."
 
 ---
 
@@ -24,13 +32,13 @@ Cult of Mac highlighted Stezza's "large buttons and a bold interface" and praise
 
 ---
 
-## AppAdvice
+## The Sweet Setup — *Best for the Car*
 
-**[Metro-Style Music Player App Stezza Goes 2.0 With New Look And Features](https://appadvice.com/appnn/2014/07/metro-style-music-player-app-stezza-goes-2-0-with-new-look-and-features)** — July 2014
+**[The Best iOS Music App Replacement](https://thesweetsetup.com/apps/best-ios-music-app-replacement/)** — Rachel Anderson, October 2016
 
-**[Metro-Style iOS Music Player App Stezza Gains Universal Support And Other Features](https://appadvice.com/appnn/2013/05/metro-style-ios-music-player-app-stezza-gains-universal-support-and-other-features)** — May 2013
+> "Stezza's design puts the playback controls first with giant buttons for play/pause, next, and previous tracks."
 
-AppAdvice has covered Stezza's major releases since launch, and Stezza has been featured multiple times in AppAdvice's *Apps Gone Free* roundups.
+The Sweet Setup picked Stezza as their **"Best for the Car"** alternative to Apple's Music app, praising the stripped-down, big-button interface and adaptive theming based on album artwork.
 
 ---
 
@@ -41,6 +49,16 @@ AppAdvice has covered Stezza's major releases since launch, and Stezza has been 
 > "Stezza's a curious player whose focus is solely on providing the best possible interface for sightless use, such as when driving… Stezza's ginormous buttons are still well worth checking out."
 
 Barrowclift's deeply researched annual showcase reviews dozens of iOS music players. Stezza was singled out as a worthy honorable mention, recognised specifically for its driving and accessibility-focused design.
+
+---
+
+## AppAdvice
+
+**[Metro-Style Music Player App Stezza Goes 2.0 With New Look And Features](https://appadvice.com/appnn/2014/07/metro-style-music-player-app-stezza-goes-2-0-with-new-look-and-features)** — July 2014
+
+**[Metro-Style iOS Music Player App Stezza Gains Universal Support And Other Features](https://appadvice.com/appnn/2013/05/metro-style-ios-music-player-app-stezza-gains-universal-support-and-other-features)** — May 2013
+
+AppAdvice has covered Stezza's major releases since launch, and Stezza has been featured multiple times in AppAdvice's *Apps Gone Free* roundups.
 
 ---
 
