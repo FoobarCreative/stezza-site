@@ -10,6 +10,7 @@ date: 2026-04-24
 last_updated: 2026-04-24
 item_id: "library-empty-troubleshooting"
 related:
+  - enable-sync-library
   - songs-greyed-out
   - apple-music-and-stezza
   - itunes-match-and-stezza

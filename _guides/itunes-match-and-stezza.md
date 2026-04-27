@@ -10,6 +10,7 @@ date: 2026-04-24
 last_updated: 2026-04-24
 item_id: "itunes-match-and-stezza"
 related:
+  - enable-sync-library
   - apple-music-vs-itunes-match
   - apple-music-and-stezza
   - library-empty-troubleshooting
