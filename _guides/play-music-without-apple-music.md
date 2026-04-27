@@ -46,10 +46,10 @@ On **Windows:** iTunes or the Apple Music app. Drag files in, or **File → Add 
 
 Connect your iPhone and push the music across:
 
-- [Sync from Mac (Catalina+)](/guides/sync-music-mac-finder/)
-- [Sync from Mac (Mojave or earlier)](/guides/sync-music-mac-itunes/)
-- [Sync from Windows (iTunes)](/guides/sync-music-windows-itunes/)
-- [Sync from Windows 11 (Apple Music + Apple Devices)](/guides/sync-music-windows-apple-music-app/)
+- [Sync from Mac (Catalina+)](/guides/sync-music-mac-finder)
+- [Sync from Mac (Mojave or earlier)](/guides/sync-music-mac-itunes)
+- [Sync from Windows (iTunes)](/guides/sync-music-windows-itunes)
+- [Sync from Windows 11 (Apple Music + Apple Devices)](/guides/sync-music-windows-apple-music-app)
 
 **Important:** when you set up sync, iPhone will offer to enable **Sync Library**. If you don't want any cloud involvement, **leave that off**. Sync Library is the feature that ties your library to Apple Music / iTunes Match; without a subscription it doesn't do much anyway.
 

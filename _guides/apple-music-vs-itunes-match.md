@@ -83,5 +83,5 @@ Both services work — pick based on whether you want a streaming catalogue or j
 
 ## See also
 
-- [Does Stezza Work with Apple Music?](/guides/apple-music-and-stezza/)
-- [Does Stezza Work with iTunes Match?](/guides/itunes-match-and-stezza/)
+- [Does Stezza Work with Apple Music?](/guides/apple-music-and-stezza)
+- [Does Stezza Work with iTunes Match?](/guides/itunes-match-and-stezza)

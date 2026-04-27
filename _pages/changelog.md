@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Changelog
-permalink: /changelog/
+permalink: /changelog
 include_in_header: false
 include_in_footer: true
 description: "Every Stezza release going back to v1.0 in 2013."

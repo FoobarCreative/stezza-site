@@ -80,12 +80,12 @@ Stezza reflects this automatically — anything still in the library still plays
 Sync Library is probably off. Check **Settings → Apps → Music → Sync Library**.
 
 **Some songs are greyed out.**
-They're cloud-only and not downloadable or playable in the current state. See [Why Are Some Songs Greyed Out in My Library?](/guides/songs-greyed-out/).
+They're cloud-only and not downloadable or playable in the current state. See [Why Are Some Songs Greyed Out in My Library?](/guides/songs-greyed-out).
 
 **A track won't play at all.**
 Check whether it plays in the built-in Music app. If it doesn't play there either, the track is unavailable (removed from Apple Music, region-locked, or a file problem). If it plays in Music but not Stezza, try restarting Stezza and checking your network connection for streaming tracks.
 
 ## See also
 
-- [Apple Music vs iTunes Match: What's the Difference?](/guides/apple-music-vs-itunes-match/)
-- [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting/)
+- [Apple Music vs iTunes Match: What's the Difference?](/guides/apple-music-vs-itunes-match)
+- [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting)

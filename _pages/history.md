@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History
-permalink: /history/
+permalink: /history
 include_in_header: true
 description: "A look back at Stezza's journey since 2013 — from a Metro-inspired iPhone music player to the upcoming Stezza 3.0 with iOS 26's Liquid Glass design."
 ---
@@ -64,7 +64,7 @@ Stezza is still actively maintained — the most recent release was **version 2.
 
 Everything Stezza set out to do in 2013 still applies. The world around it just looks different now.
 
-For a full list of every release going back to 2013, see the [changelog]({{ "/changelog/" | relative_url }}).
+For a full list of every release going back to 2013, see the [changelog]({{ "/changelog" | relative_url }}).
 
 ---
 
@@ -85,4 +85,4 @@ A few of the publications that covered Stezza's launch and major updates:
 - [AddictiveTips — A Music Player Ideal For Road Trips (2013)](https://www.addictivetips.com/ios/stezza-metro-inspired-iphone-music-player-ideal-for-road-trips/)
 - [IPA-HUNT — Stezza Goes Universal (2013)](http://ipa-hunt.blogspot.com/2013/05/metro-style-ios-music-player-app-stezza.html)
 
-For more recent coverage, see the [Press page]({{ "/press/" | relative_url }}).
+For more recent coverage, see the [Press page]({{ "/press" | relative_url }}).

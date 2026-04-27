@@ -27,7 +27,7 @@ This is what most people want. Your MP3s end up alongside the rest of your music
 2. Drag your MP3 files into the window, or use **File → Add to Library**.
 3. Connect your iPhone and sync.
 
-Full walkthrough: [Sync Music from Mac](/guides/sync-music-mac-finder/).
+Full walkthrough: [Sync Music from Mac](/guides/sync-music-mac-finder).
 
 ### On Windows
 
@@ -35,7 +35,7 @@ Full walkthrough: [Sync Music from Mac](/guides/sync-music-mac-finder/).
 2. Drag MP3 files in, or use **File → Add Folder to Library**.
 3. Connect your iPhone and sync.
 
-Full walkthroughs: [iTunes for Windows](/guides/sync-music-windows-itunes/) · [Apple Music app for Windows 11](/guides/sync-music-windows-apple-music-app/).
+Full walkthroughs: [iTunes for Windows](/guides/sync-music-windows-itunes) · [Apple Music app for Windows 11](/guides/sync-music-windows-apple-music-app).
 
 ### Apple Music / iTunes Match shortcut
 
@@ -55,7 +55,7 @@ This is fine for one-off tracks but clunky for a real library. No playlists, no 
 
 Stezza supports **File Sharing**, which lets you drop files directly into the app's storage from a computer — no library involvement. Useful if you want certain files kept separate from your main music library.
 
-See [How to Copy Videos to Stezza Using iTunes or Finder File Sharing](/guides/video-playback-file-sharing/) — the same mechanism works for audio files.
+See [How to Copy Videos to Stezza Using iTunes or Finder File Sharing](/guides/video-playback-file-sharing) — the same mechanism works for audio files.
 
 ## Which option should I pick?
 

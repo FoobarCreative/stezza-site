@@ -29,10 +29,10 @@ You can mix and match. Most people end up using a combination of synced music an
 
 This is the classic way — you have music files on your computer, and you copy them to the iPhone.
 
-- **Mac (macOS Catalina or later):** [Sync from Finder](/guides/sync-music-mac-finder/)
-- **Mac (macOS Mojave or earlier):** [Sync from iTunes](/guides/sync-music-mac-itunes/)
-- **Windows (iTunes):** [Sync from iTunes for Windows](/guides/sync-music-windows-itunes/)
-- **Windows 11 (Apple's new apps):** [Sync using Apple Music and Apple Devices](/guides/sync-music-windows-apple-music-app/)
+- **Mac (macOS Catalina or later):** [Sync from Finder](/guides/sync-music-mac-finder)
+- **Mac (macOS Mojave or earlier):** [Sync from iTunes](/guides/sync-music-mac-itunes)
+- **Windows (iTunes):** [Sync from iTunes for Windows](/guides/sync-music-windows-itunes)
+- **Windows 11 (Apple's new apps):** [Sync using Apple Music and Apple Devices](/guides/sync-music-windows-apple-music-app)
 
 Synced music lives on the device permanently (until you remove it), plays offline, and doesn't require any subscription.
 
@@ -52,7 +52,7 @@ iTunes Match ($24.99/year in the US) is Apple's cloud locker for music you own. 
 
 Unlike Apple Music, iTunes Match **doesn't give you access to Apple's catalogue** — only your own music.
 
-See [Apple Music vs iTunes Match](/guides/apple-music-vs-itunes-match/) for which one makes sense for you.
+See [Apple Music vs iTunes Match](/guides/apple-music-vs-itunes-match) for which one makes sense for you.
 
 ## How to actually play your music
 
@@ -79,10 +79,10 @@ Syncing from a computer is the most Android-like experience — you control exac
 No. You can play synced music with no subscription at all.
 
 **Can I play MP3 files?**
-Yes. See [How to Play MP3 Files on iPhone](/guides/play-mp3-files-on-iphone/).
+Yes. See [How to Play MP3 Files on iPhone](/guides/play-mp3-files-on-iphone).
 
 **Can I play music offline without any network?**
-Yes, as long as the tracks are downloaded to the device — either synced from a computer, or downloaded from Apple Music. See [How to Play Music Offline on iPhone](/guides/play-music-offline-iphone/).
+Yes, as long as the tracks are downloaded to the device — either synced from a computer, or downloaded from Apple Music. See [How to Play Music Offline on iPhone](/guides/play-music-offline-iphone).
 
 **Can I avoid Apple Music entirely?**
-Yes. See [How to Play Music on iPhone Without Apple Music](/guides/play-music-without-apple-music/).
+Yes. See [How to Play Music on iPhone Without Apple Music](/guides/play-music-without-apple-music).

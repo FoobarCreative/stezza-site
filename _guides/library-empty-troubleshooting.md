@@ -21,7 +21,7 @@ Stezza reads directly from your iOS device's **Music library** — the same libr
 
 Open the built-in **Music** app and look at your library there.
 
-- **Music app is also empty?** The issue is upstream — nothing has been synced or added to the library yet. See the sync guides for [Mac](/guides/sync-music-mac-finder/) or [Windows](/guides/sync-music-windows-itunes/).
+- **Music app is also empty?** The issue is upstream — nothing has been synced or added to the library yet. See the sync guides for [Mac](/guides/sync-music-mac-finder) or [Windows](/guides/sync-music-windows-itunes).
 - **Music app has your songs but Stezza doesn't?** Continue below.
 
 ## 2. Grant Stezza access to your music library
@@ -62,7 +62,7 @@ If you're mid-sync from a Mac or PC, the device's library can be in a transition
 
 ## Still empty?
 
-If none of the above helped, [get in touch]({{ "/contact/" | relative_url }}) with:
+If none of the above helped, [get in touch]({{ "/contact" | relative_url }}) with:
 
 - Your iOS version (**Settings → General → About → iOS Version**)
 - Whether you use Apple Music, iTunes Match, or neither

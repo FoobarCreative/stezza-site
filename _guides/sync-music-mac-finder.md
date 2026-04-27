@@ -77,10 +77,10 @@ Your device's iOS version is older than the minimum supported by this version of
 By default, Finder-managed syncing replaces the device's music library with what's on your Mac. If you've been adding music directly to the iPhone, it'll be wiped on sync. To keep things you've added manually, enable **Manually manage music** in the **General** tab before syncing.
 
 **Apple Music subscribers: songs won't sync this way.**
-If you subscribe to Apple Music and have **Sync Library** enabled, your library already syncs over the cloud — you don't use Finder sync for those tracks. Finder sync is for music you own (ripped CDs, purchases, imported files). See [What is Apple Music, and does it work with Stezza?](/guides/apple-music-and-stezza/) for the full picture.
+If you subscribe to Apple Music and have **Sync Library** enabled, your library already syncs over the cloud — you don't use Finder sync for those tracks. Finder sync is for music you own (ripped CDs, purchases, imported files). See [What is Apple Music, and does it work with Stezza?](/guides/apple-music-and-stezza) for the full picture.
 
 ## After the sync
 
 Open Stezza on your iPhone or iPad. Your synced music appears automatically — Stezza reads from the device's Music library, so anything the Music app sees, Stezza sees.
 
-If the library looks empty after syncing, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting/).
+If the library looks empty after syncing, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).

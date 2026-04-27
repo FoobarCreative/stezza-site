@@ -17,7 +17,7 @@ related:
 
 If your Mac is running **macOS Mojave (10.14) or earlier**, device syncing still happens inside iTunes. This guide covers that flow.
 
-> **Running macOS Catalina or later?** iTunes has been replaced by Finder-based syncing. See [How to Sync Music from a Mac (macOS Catalina or Later)](/guides/sync-music-mac-finder/).
+> **Running macOS Catalina or later?** iTunes has been replaced by Finder-based syncing. See [How to Sync Music from a Mac (macOS Catalina or Later)](/guides/sync-music-mac-finder).
 
 ## What you'll need
 
@@ -66,8 +66,8 @@ The device will appear in iTunes automatically when it's on the same Wi-Fi as th
 
 Open Stezza on your device. Your synced music appears automatically — Stezza reads from your device's Music library.
 
-If the library looks empty, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting/).
+If the library looks empty, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).
 
 ## Consider upgrading
 
-macOS Mojave is well past end-of-support at this point. If your Mac supports a newer macOS, upgrading gets you newer features and security updates. The sync flow changes to Finder-based (see the [Catalina+ guide](/guides/sync-music-mac-finder/)) but is functionally similar.
+macOS Mojave is well past end-of-support at this point. If your Mac supports a newer macOS, upgrading gets you newer features and security updates. The sync flow changes to Finder-based (see the [Catalina+ guide](/guides/sync-music-mac-finder)) but is functionally similar.

@@ -17,7 +17,7 @@ related:
 
 On Windows, iTunes is still the most common way to get music onto an iPhone or iPad — particularly on Windows 10, or on Windows 11 if you haven't switched to the newer Apple Music app. This guide covers the full workflow.
 
-> **On Windows 11?** You also have the option to use Apple's newer Microsoft Store apps. See [How to Sync Music from Windows 11 Using the Apple Music and Apple Devices Apps](/guides/sync-music-windows-apple-music-app/) for that path.
+> **On Windows 11?** You also have the option to use Apple's newer Microsoft Store apps. See [How to Sync Music from Windows 11 Using the Apple Music and Apple Devices Apps](/guides/sync-music-windows-apple-music-app) for that path.
 
 ## What you'll need
 
@@ -100,10 +100,10 @@ Go to **Account → Authorizations → Authorize This Computer**. Sign in with t
 iTunes syncs to one library at a time by default. If you sync with a different PC or Mac, iTunes offers to erase and replace. To add music from multiple sources, use **Manually manage music and videos** in the device's **Summary** tab.
 
 **Apple Music subscribers: use Sync Library, not iTunes sync.**
-If you subscribe to Apple Music, your library already syncs through the cloud. See [What is Apple Music, and does it work with Stezza?](/guides/apple-music-and-stezza/).
+If you subscribe to Apple Music, your library already syncs through the cloud. See [What is Apple Music, and does it work with Stezza?](/guides/apple-music-and-stezza).
 
 ## After syncing
 
 Open Stezza on your iPhone or iPad. Your synced music appears automatically — Stezza reads from the device's Music library.
 
-If your library still looks empty, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting/).
+If your library still looks empty, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).

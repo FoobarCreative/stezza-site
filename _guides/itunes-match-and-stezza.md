@@ -21,7 +21,7 @@ Short answer: **yes**. iTunes Match puts your personal music library in the clou
 
 iTunes Match is Apple's cloud locker service for music you already own. For $24.99/year in the US, Apple scans your library (up to 100,000 songs), matches each track to the iTunes Store catalogue where possible, and uploads the rest. You can then access your entire library on any device signed into the same Apple ID.
 
-It's **not** a streaming catalogue — you only get access to *your own music*. If you want Apple's catalogue of ~100 million songs, that's Apple Music (see [Apple Music vs iTunes Match](/guides/apple-music-vs-itunes-match/)).
+It's **not** a streaming catalogue — you only get access to *your own music*. If you want Apple's catalogue of ~100 million songs, that's Apple Music (see [Apple Music vs iTunes Match](/guides/apple-music-vs-itunes-match)).
 
 ## Turn on iTunes Match on iPhone/iPad
 
@@ -46,15 +46,15 @@ Both work in Stezza.
 
 Usually no. Apple Music's **Sync Library** does the same library-in-the-cloud job, and you get the streaming catalogue on top. Paying for both is only worth it in niche cases — for example, if you want a long-term library locker that persists even if you cancel Apple Music.
 
-See [Apple Music vs iTunes Match: What's the Difference?](/guides/apple-music-vs-itunes-match/) for a full comparison.
+See [Apple Music vs iTunes Match: What's the Difference?](/guides/apple-music-vs-itunes-match) for a full comparison.
 
 ## Common issues
 
 **My library is empty after enabling Sync Library.**
-Give it time — large libraries can take 15 minutes or more to populate. Also make sure the device is signed into the same Apple ID as your iTunes Match subscription. See [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting/).
+Give it time — large libraries can take 15 minutes or more to populate. Also make sure the device is signed into the same Apple ID as your iTunes Match subscription. See [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).
 
 **Some tracks are greyed out.**
-They're in the cloud but not currently playable — often due to a temporary issue or a track Apple can't serve. See [Why Are Some Songs Greyed Out?](/guides/songs-greyed-out/).
+They're in the cloud but not currently playable — often due to a temporary issue or a track Apple can't serve. See [Why Are Some Songs Greyed Out?](/guides/songs-greyed-out).
 
 **Matched tracks sound different from my originals.**
 That's expected. Matched tracks are served as 256kbps AAC from Apple's catalogue, which is often higher quality than ripped CDs but can differ from your originals (different masters, remastered versions, etc.). Unmatched tracks you uploaded play back as you uploaded them.

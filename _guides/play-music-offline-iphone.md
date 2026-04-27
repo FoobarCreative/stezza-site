@@ -31,8 +31,8 @@ Streaming-only tracks — the ones with a cloud icon next to them — require a 
 
 If you want music that plays offline without paying for anything, this is the simplest path. Sync tracks from a Mac or PC and they stay on the device until you remove them.
 
-- [Sync from Mac (Catalina+)](/guides/sync-music-mac-finder/)
-- [Sync from Windows (iTunes)](/guides/sync-music-windows-itunes/)
+- [Sync from Mac (Catalina+)](/guides/sync-music-mac-finder)
+- [Sync from Windows (iTunes)](/guides/sync-music-windows-itunes)
 
 No subscription, no network dependency, no chance of tracks disappearing.
 

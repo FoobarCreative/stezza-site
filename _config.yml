@@ -134,10 +134,10 @@ include:
 collections:
   pages:
     output: true
-    permalink: /:path/
+    permalink: /:path
   guides:
     output: true
-    permalink: /guides/:slug/
+    permalink: /guides/:slug
 
 defaults:
   - scope:

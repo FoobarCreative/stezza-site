@@ -107,5 +107,5 @@ No. File Sharing copies files directly into Stezza and doesn't touch your music 
 
 ## See also
 
-- [Sync Music from Mac (macOS Catalina or later)](/guides/sync-music-mac-finder/)
-- [Sync Music from Windows using iTunes](/guides/sync-music-windows-itunes/)
+- [Sync Music from Mac (macOS Catalina or later)](/guides/sync-music-mac-finder)
+- [Sync Music from Windows using iTunes](/guides/sync-music-windows-itunes)

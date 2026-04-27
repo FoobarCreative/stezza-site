@@ -63,4 +63,4 @@ Some tracks aren't available in every country. If you've travelled or changed yo
 
 If a track is greyed out and none of the above explains it, check whether it plays in the built-in Music app. If Music also refuses to play it, it's a library or licensing issue rather than anything Stezza can work around.
 
-[Get in touch]({{ "/contact/" | relative_url }}) if you want help working out what's going on with a specific track.
+[Get in touch]({{ "/contact" | relative_url }}) if you want help working out what's going on with a specific track.

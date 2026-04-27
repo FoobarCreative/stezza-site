@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Press
-permalink: /press/
+permalink: /press
 include_in_header: true
 description: "Press coverage and reviews of Stezza, the simple music player for iPhone and iPad."
 ---

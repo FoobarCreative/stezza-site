@@ -23,7 +23,7 @@ On Windows 11, Apple has split the job iTunes used to do into **three separate a
 
 This guide covers the music sync workflow using **Apple Music** (for your library) and **Apple Devices** (for the actual sync).
 
-> **Prefer iTunes?** iTunes for Windows still works and is still supported. See [How to Sync Music from Windows Using iTunes](/guides/sync-music-windows-itunes/).
+> **Prefer iTunes?** iTunes for Windows still works and is still supported. See [How to Sync Music from Windows Using iTunes](/guides/sync-music-windows-itunes).
 
 ## What you'll need
 
@@ -71,7 +71,7 @@ In the Apple Devices app, open the device's **General** tab, find **Show this de
 
 If you subscribe to Apple Music and have **Sync Library** turned on (in the Apple Music app's settings on Windows, and on the device), your library is already shared across devices through the cloud. In that case you don't need to cable-sync music at all — new additions propagate automatically.
 
-See [Does Stezza Work with Apple Music?](/guides/apple-music-and-stezza/) for more on that flow.
+See [Does Stezza Work with Apple Music?](/guides/apple-music-and-stezza) for more on that flow.
 
 ## Common issues
 
@@ -90,4 +90,4 @@ The new apps are still maturing. If performance is consistently bad, iTunes for 
 
 Open Stezza on your iPhone or iPad. Synced music appears automatically — Stezza reads from your device's Music library.
 
-If it's empty, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting/).
+If it's empty, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).
