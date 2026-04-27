@@ -1,32 +1,35 @@
-<section class="exploreSection" style="max-width: 1000px; margin: 4em auto 2em; padding: 0 1.5em;">
-	<h2 style="text-align: center; font-size: 1.8em; margin-bottom: 1.5em; color: #333;">Explore Stezza</h2>
-	<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.5em;">
+<section class="exploreSection">
+	<div class="exploreInner">
 
-		<a href="{{ '/guides' | relative_url }}" style="display: block; padding: 1.75em; background: #f8f9fa; border-radius: 12px; text-decoration: none; color: inherit; border: 2px solid transparent; transition: all 0.2s;">
-			<div style="font-size: 2em; margin-bottom: 0.5em;">📖</div>
-			<h3 style="margin: 0 0 0.5em 0; color: #7C4199; font-size: 1.15em;">Guides</h3>
-			<p style="margin: 0; font-size: 0.95em; color: #666; line-height: 1.5;">Step-by-step help for syncing music, using Apple Music and iTunes Match, and getting the most out of Stezza.</p>
-		</a>
+		<div class="exploreColumn">
+			<h3>Help &amp; Guides</h3>
+			<ul>
+				<li><a href="{{ '/guides' | relative_url }}">All Guides</a></li>
+				<li><a href="{{ '/guides/play-music-library-on-iphone' | relative_url }}">Play Your Music Library on iPhone</a></li>
+				<li><a href="{{ '/guides/sync-music-mac-finder' | relative_url }}">Sync from Mac (Catalina+)</a></li>
+				<li><a href="{{ '/guides/sync-music-windows-itunes' | relative_url }}">Sync from Windows (iTunes)</a></li>
+				<li><a href="{{ '/guides/apple-music-vs-itunes-match' | relative_url }}">Apple Music vs iTunes Match</a></li>
+				<li><a href="{{ '/guides/library-empty-troubleshooting' | relative_url }}">Troubleshooting</a></li>
+			</ul>
+		</div>
 
-		<a href="{{ '/press' | relative_url }}" style="display: block; padding: 1.75em; background: #f8f9fa; border-radius: 12px; text-decoration: none; color: inherit; border: 2px solid transparent; transition: all 0.2s;">
-			<div style="font-size: 2em; margin-bottom: 0.5em;">📰</div>
-			<h3 style="margin: 0 0 0.5em 0; color: #7C4199; font-size: 1.15em;">Press</h3>
-			<p style="margin: 0; font-size: 0.95em; color: #666; line-height: 1.5;">Reviews and coverage from Popular Science, Cult of Mac, The Sweet Setup, and more.</p>
-		</a>
+		<div class="exploreColumn">
+			<h3>About Stezza</h3>
+			<ul>
+				<li><a href="{{ '/history' | relative_url }}">History</a></li>
+				<li><a href="{{ '/press' | relative_url }}">Press &amp; Reviews</a></li>
+				<li><a href="{{ '/changelog' | relative_url }}">Changelog</a></li>
+			</ul>
+		</div>
 
-		<a href="{{ '/history' | relative_url }}" style="display: block; padding: 1.75em; background: #f8f9fa; border-radius: 12px; text-decoration: none; color: inherit; border: 2px solid transparent; transition: all 0.2s;">
-			<div style="font-size: 2em; margin-bottom: 0.5em;">📜</div>
-			<h3 style="margin: 0 0 0.5em 0; color: #7C4199; font-size: 1.15em;">History</h3>
-			<p style="margin: 0; font-size: 0.95em; color: #666; line-height: 1.5;">A look back at Stezza's journey since 2013, including its time on the Pioneer AppRadio platform.</p>
-		</a>
+		<div class="exploreColumn">
+			<h3>Get Stezza</h3>
+			<ul>
+				<li><a href="{{ site.appstore_link }}">Download on the App Store</a></li>
+				<li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+				<li><a href="{{ '/privacy-policy' | relative_url }}">Privacy Policy</a></li>
+			</ul>
+		</div>
 
 	</div>
 </section>
-
-<style>
-	.exploreSection a:hover {
-		border-color: #7C4199 !important;
-		box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-		transform: translateY(-2px);
-	}
-</style>
