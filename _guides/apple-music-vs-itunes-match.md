@@ -6,8 +6,6 @@ category: "Apple Music & iTunes Match"
 priority: 1
 difficulty: "Easy"
 time_required: "4 minutes"
-date: 2026-04-24
-last_updated: 2026-04-24
 item_id: "apple-music-vs-itunes-match"
 related:
   - apple-music-and-stezza

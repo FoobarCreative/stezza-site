@@ -146,6 +146,9 @@ defaults:
     values:
       layout: "guide"
 
+# Publish documents whose date is in the future (no scheduled releases here).
+future: true
+
 # Markdown rendering
 markdown: kramdown
 

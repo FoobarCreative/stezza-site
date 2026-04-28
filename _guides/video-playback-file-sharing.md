@@ -6,8 +6,6 @@ category: "Videos & File Sharing"
 priority: 1
 difficulty: "Easy"
 time_required: "5 minutes"
-date: 2026-04-24
-last_updated: 2026-04-24
 item_id: "video-playback-file-sharing"
 related:
   - sync-music-mac-finder

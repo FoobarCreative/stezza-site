@@ -6,8 +6,6 @@ category: "Getting Started"
 priority: 1
 difficulty: "Easy"
 time_required: "5 minutes"
-date: 2026-04-24
-last_updated: 2026-04-24
 item_id: "play-music-library-on-iphone"
 related:
   - play-mp3-files-on-iphone
