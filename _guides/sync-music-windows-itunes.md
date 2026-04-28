@@ -4,8 +4,6 @@ short_title: "Sync from Windows (iTunes)"
 description: "Step-by-step guide to syncing your music library from a Windows PC to iPhone or iPad using iTunes for Windows."
 category: "Sync from Windows"
 priority: 1
-difficulty: "Easy"
-time_required: "10 minutes"
 item_id: "sync-music-windows-itunes"
 related:
   - sync-music-windows-apple-music-app

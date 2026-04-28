@@ -4,8 +4,6 @@ short_title: "iTunes Match + Stezza"
 description: "How iTunes Match interacts with Stezza — what plays, how to set it up, and whether you need it if you already have Apple Music."
 category: "Apple Music & iTunes Match"
 priority: 3
-difficulty: "Easy"
-time_required: "3 minutes"
 item_id: "itunes-match-and-stezza"
 related:
   - enable-sync-library

@@ -4,8 +4,6 @@ short_title: "Sync from Mac (Catalina+)"
 description: "On macOS Catalina and later, music syncs through Finder instead of iTunes. Here's the full walkthrough for getting your music library onto your iPhone or iPad."
 category: "Sync from Mac"
 priority: 1
-difficulty: "Easy"
-time_required: "5 minutes"
 item_id: "sync-music-mac-finder"
 related:
   - sync-music-mac-itunes

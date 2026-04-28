@@ -31,17 +31,6 @@
                 <p class="lead" style="font-size: 1.2em; color: #555; margin-bottom: 1.5em;">{{ page.description }}</p>
                 {% endif %}
 
-                {% if page.time_required or page.difficulty %}
-                <div class="guide-meta" style="display: flex; gap: 1.5em; margin-bottom: 2em; flex-wrap: wrap; color: #666; font-size: 0.9em;">
-                    {% if page.time_required %}
-                    <span>⏱️ {{ page.time_required }}</span>
-                    {% endif %}
-                    {% if page.difficulty %}
-                    <span>📊 {{ page.difficulty }}</span>
-                    {% endif %}
-                </div>
-                {% endif %}
-
                 {{ content }}
 
                 {% if page.related and page.related.size > 0 %}

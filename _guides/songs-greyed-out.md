@@ -4,8 +4,6 @@ short_title: "Greyed-Out Songs"
 description: "Why some tracks appear greyed out or won't play in your Music library, and what you can do about it."
 category: "Troubleshooting"
 priority: 2
-difficulty: "Easy"
-time_required: "3 minutes"
 item_id: "songs-greyed-out"
 related:
   - library-empty-troubleshooting

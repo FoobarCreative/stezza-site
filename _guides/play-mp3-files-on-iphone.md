@@ -4,8 +4,6 @@ short_title: "Play MP3s on iPhone"
 description: "The simplest ways to play MP3 files on iPhone or iPad — whether you want them in your main Music library or kept separate."
 category: "Getting Started"
 priority: 2
-difficulty: "Easy"
-time_required: "5 minutes"
 item_id: "play-mp3-files-on-iphone"
 related:
   - play-music-library-on-iphone

@@ -4,8 +4,6 @@ short_title: "Sync from Mac (iTunes)"
 description: "Step-by-step guide to syncing music from a Mac running macOS Mojave or earlier using iTunes. For Catalina and later, see the Finder guide."
 category: "Sync from Mac"
 priority: 2
-difficulty: "Easy"
-time_required: "5 minutes"
 item_id: "sync-music-mac-itunes"
 related:
   - sync-music-mac-finder

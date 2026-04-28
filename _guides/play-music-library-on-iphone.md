@@ -4,8 +4,6 @@ short_title: "Play Your Library on iPhone"
 description: "A plain-English guide to playing your own music library on an iPhone or iPad — whether you're coming from Android, new to iOS, or just want an alternative to Apple's built-in Music app."
 category: "Getting Started"
 priority: 1
-difficulty: "Easy"
-time_required: "5 minutes"
 item_id: "play-music-library-on-iphone"
 related:
   - play-mp3-files-on-iphone

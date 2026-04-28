@@ -4,8 +4,6 @@ short_title: "Play Music Offline"
 description: "Everything you need to play music on iPhone with no internet — flights, subways, cellular dead zones, or just saving data."
 category: "Getting Started"
 priority: 4
-difficulty: "Easy"
-time_required: "5 minutes"
 item_id: "play-music-offline-iphone"
 related:
   - play-music-library-on-iphone

@@ -1,0 +1,37 @@
+---
+layout: null
+permalink: /api/guides.json
+---
+{
+  "guides": [
+    {% for guide in site.guides %}
+    {
+      "id": {{ guide.item_id | jsonify }},
+      "slug": {{ guide.slug | jsonify }},
+      "title": {{ guide.short_title | default: guide.title | jsonify }},
+      "fullTitle": {{ guide.title | jsonify }},
+      "description": {{ guide.description | jsonify }},
+      "category": {{ guide.category | jsonify }},
+      "webURL": {{ site.url | append: guide.url | jsonify }},
+      "priority": {{ guide.priority | default: 999 }},
+      "relatedGuides": {{ guide.related | default: empty | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "categories": [
+    {% assign category_names = "Getting Started,Sync from Mac,Sync from Windows,Apple Music & iTunes Match,Videos & File Sharing,Troubleshooting" | split: "," %}
+    {% assign category_icons = "🎧,🍎,🪟,☁️,🎬,🛟" | split: "," %}
+    {% for name in category_names %}
+    {
+      "name": {{ name | jsonify }},
+      "icon": {{ category_icons[forloop.index0] | jsonify }},
+      "guides": [
+        {% assign cat_guides = site.guides | where: "category", name | sort: "priority" %}
+        {% for guide in cat_guides %}{{ guide.item_id | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}
+      ]
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "lastUpdated": {{ site.time | date_to_xmlschema | jsonify }},
+  "version": "1.0"
+}

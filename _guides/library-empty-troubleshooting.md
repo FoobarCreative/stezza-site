@@ -4,8 +4,6 @@ short_title: "Empty Library Troubleshooting"
 description: "Troubleshooting steps when your music library shows as empty or incomplete in Stezza."
 category: "Troubleshooting"
 priority: 1
-difficulty: "Easy"
-time_required: "3 minutes"
 item_id: "library-empty-troubleshooting"
 related:
   - enable-sync-library

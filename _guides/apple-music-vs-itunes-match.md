@@ -4,8 +4,6 @@ short_title: "Apple Music vs iTunes Match"
 description: "Apple Music and iTunes Match sound similar but do very different things. Here's what each one is for, how they overlap, and which you actually need."
 category: "Apple Music & iTunes Match"
 priority: 1
-difficulty: "Easy"
-time_required: "4 minutes"
 item_id: "apple-music-vs-itunes-match"
 related:
   - apple-music-and-stezza

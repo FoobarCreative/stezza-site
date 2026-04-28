@@ -36,14 +36,6 @@ description: "Guides and tips to get the most out of Stezza — the simple, styl
                 <p style="margin: 0; font-size: 0.9em; color: #666; line-height: 1.5;">{{ guide.description }}</p>
               </div>
             </div>
-            <div style="display: flex; gap: 1em; flex-wrap: wrap; font-size: 0.85em; color: #888;">
-              {% if guide.time_required %}
-              <span>⏱️ {{ guide.time_required }}</span>
-              {% endif %}
-              {% if guide.difficulty %}
-              <span>📊 {{ guide.difficulty }}</span>
-              {% endif %}
-            </div>
           </a>
         {% endfor %}
       </div>
