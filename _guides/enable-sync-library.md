@@ -6,8 +6,8 @@ category: "Apple Music & iTunes Match"
 priority: 4
 difficulty: "Easy"
 time_required: "1 minute"
-date: 2026-04-28
-last_updated: 2026-04-28
+date: 2026-04-27
+last_updated: 2026-04-27
 item_id: "enable-sync-library"
 related:
   - apple-music-and-stezza
