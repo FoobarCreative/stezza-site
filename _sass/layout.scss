@@ -691,6 +691,51 @@ footer {
 	display: none;
 }
 
+// In-app view — when ?inapp=true is in the URL, strip site chrome so the
+// article body renders cleanly inside a WebView in the Stezza iOS app.
+.in-app-view {
+	.headerBackground {
+		height: 0 !important;
+		min-height: 0 !important;
+	}
+
+	.subPageContainer {
+		padding-top: 20px;
+	}
+
+	header,
+	.breadcrumbs,
+	.related-guides,
+	.app-cta,
+	.guide-footer {
+		display: none !important;
+	}
+
+	// Hide the "Related Guides" h2 and its leading hr that introduces the section
+	.guide-article h2:has(+ .related-guides) {
+		display: none !important;
+	}
+	.guide-article hr:has(+ h2 + .related-guides) {
+		display: none !important;
+	}
+
+	// Hide the hr that precedes the CTA (before .app-cta)
+	.guide-article .related-guides + hr,
+	.guide-article hr + .app-cta {
+		display: none !important;
+	}
+}
+
+// Constrain guide screenshots to a sensible max width (roughly iPhone width)
+.guide-article.markdown-body img {
+	max-width: 414px;
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: 1.5em auto;
+	border-radius: 8px;
+}
+
 .exploreSection {
 	grid-area: e;
 	border-top: 1px solid #e5e5e5;

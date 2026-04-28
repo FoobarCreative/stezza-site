@@ -29,4 +29,12 @@
 	<link href="https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap" rel="stylesheet">
 
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
+
+	<script>
+		(function() {
+			if (window.location.search.includes('inapp=true')) {
+				document.documentElement.classList.add('in-app-view');
+			}
+		})();
+	</script>
 </head>
