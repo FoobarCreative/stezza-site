@@ -380,7 +380,6 @@ nav > ul li a:active {
 // iPhone Device Preview — modern Dynamic Island frame, pure CSS.
 
 $device-bezel-color: #1a1a1c;
-$device-screen-radius-ratio: 0.115;
 
 .iphonePreview {
 	grid-area: p;
@@ -415,11 +414,11 @@ $device-screen-radius-ratio: 0.115;
 
 .dynamicIsland {
 	position: absolute;
-	top: 22px;
+	top: 10px;
 	left: 50%;
 	transform: translateX(-50%);
 	width: 33%;
-	height: 26px;
+	height: 30px;
 	background: #000;
 	border-radius: 999px;
 	z-index: 2;
@@ -458,8 +457,8 @@ $device-screen-radius-ratio: 0.115;
 	}
 
 	.dynamicIsland {
-		top: 20px;
-		height: 24px;
+		top: 9px;
+		height: 28px;
 	}
 }
 
@@ -481,8 +480,8 @@ $device-screen-radius-ratio: 0.115;
 	}
 
 	.dynamicIsland {
-		top: 14px;
-		height: 18px;
+		top: 6px;
+		height: 22px;
 		width: 35%;
 	}
 }
