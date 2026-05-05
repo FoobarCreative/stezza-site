@@ -13,6 +13,16 @@ Every Stezza release since launch in 2013, newest first.
 
 ---
 
+## 3.0 — May 2026
+
+A full redesign. Apple Music and your library, on the same stage.
+
+- Search your library and all of Apple Music
+- Mesh gradients made from your album art
+- A glass mini player, on every screen
+- Full-screen player with big buttons
+- Rich artist pages: top songs, albums, singles, similar artists
+
 ## 2.12 — January 2026
 
 New year, new update. Now built for the latest devices, with a few under-the-bonnet tweaks.
