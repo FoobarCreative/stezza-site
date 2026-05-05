@@ -1,7 +1,7 @@
 ---
 title: "How to Play MP3 Files on iPhone"
 short_title: "Play MP3s on iPhone"
-description: "The simplest ways to play MP3 files on iPhone or iPad — whether you want them in your main Music library or kept separate."
+description: "The simplest ways to play MP3 files on iPhone or iPad, whether you want them in your main Music library or kept separate."
 category: "Getting Started"
 priority: 2
 item_id: "play-mp3-files-on-iphone"
@@ -11,7 +11,7 @@ related:
   - sync-music-windows-itunes
 ---
 
-iPhones have played MP3s since the very first one — but the way you get them onto the device depends on where the files are and how you want to play them.
+iPhones have played MP3s since the very first one, but the way you get them onto the device depends on where the files are and how you want to play them.
 
 ## Option 1: Add MP3s to your Music library (recommended)
 
@@ -35,7 +35,7 @@ Full walkthroughs: [iTunes for Windows](/guides/sync-music-windows-itunes) · [A
 
 ### Apple Music / iTunes Match shortcut
 
-If you subscribe to Apple Music (with **Sync Library** on) or iTunes Match, MP3s you add to the Music app or iTunes on your computer automatically propagate to your iPhone through the cloud — no cable sync needed.
+If you subscribe to Apple Music (with **Sync Library** on) or iTunes Match, MP3s you add to the Music app or iTunes on your computer automatically propagate to your iPhone through the cloud, no cable sync needed.
 
 ## Option 2: Play MP3s directly from the Files app
 
@@ -43,15 +43,15 @@ You can also keep MP3s outside the Music library, stored in the Files app (or iC
 
 1. Save the MP3 to iCloud Drive or transfer it via AirDrop, email, etc.
 2. Open the **Files app**.
-3. Tap the MP3 to play it — the Files app has a basic built-in player.
+3. Tap the MP3 to play it. The Files app has a basic built-in player.
 
 This is fine for one-off tracks but clunky for a real library. No playlists, no shuffling across folders, no carousel-style browsing.
 
 ## Option 3: Transfer MP3s directly into Stezza
 
-Stezza supports **File Sharing**, which lets you drop files directly into the app's storage from a computer — no library involvement. Useful if you want certain files kept separate from your main music library.
+Stezza supports **File Sharing**, which lets you drop files directly into the app's storage from a computer, no library involvement. Useful if you want certain files kept separate from your main music library.
 
-See [How to Copy Videos to Stezza Using iTunes or Finder File Sharing](/guides/video-playback-file-sharing) — the same mechanism works for audio files.
+See [How to Copy Videos to Stezza Using iTunes or Finder File Sharing](/guides/video-playback-file-sharing). The same mechanism works for audio files.
 
 ## Which option should I pick?
 
@@ -64,11 +64,11 @@ See [How to Copy Videos to Stezza Using iTunes or Finder File Sharing](/guides/v
 **Does iPhone support MP3 natively?**
 Yes. MP3 has been a first-class iOS audio format from day one. No conversion needed.
 
-**What about other formats — FLAC, OGG, WMA?**
+**What about other formats like FLAC, OGG, or WMA?**
 iOS doesn't natively support FLAC through the Music library in the traditional sense (though FLAC in the Files app works). OGG and WMA aren't supported at all. Convert to MP3 or AAC (M4A) with a tool like [dBpoweramp](https://www.dbpoweramp.com/) or [fre:ac](https://www.freac.org/) first.
 
 **Will my MP3 metadata (title, album art) come across?**
-Yes — iOS reads ID3 tags. If tags are missing or wrong, edit them in the Music app on your computer before syncing.
+Yes, iOS reads ID3 tags. If tags are missing or wrong, edit them in the Music app on your computer before syncing.
 
 **Does Stezza play MP3s?**
 Yes. Anything in your iOS Music library plays in Stezza, including MP3s.

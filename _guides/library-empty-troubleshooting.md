@@ -12,13 +12,13 @@ related:
   - itunes-match-and-stezza
 ---
 
-Stezza reads directly from your iOS device's **Music library** — the same library the built-in Music app uses. If Stezza looks empty, the problem is almost always with the library itself, not with Stezza. Work through this list.
+Stezza reads directly from your iOS device's **Music library**, the same library the built-in Music app uses. If Stezza looks empty, the problem is almost always with the library itself, not with Stezza. Work through this list.
 
 ## 1. Check the Music app first
 
 Open the built-in **Music** app and look at your library there.
 
-- **Music app is also empty?** The issue is upstream — nothing has been synced or added to the library yet. See the sync guides for [Mac](/guides/sync-music-mac-finder) or [Windows](/guides/sync-music-windows-itunes).
+- **Music app is also empty?** The issue is upstream, nothing has been synced or added to the library yet. See the sync guides for [Mac](/guides/sync-music-mac-finder) or [Windows](/guides/sync-music-windows-itunes).
 - **Music app has your songs but Stezza doesn't?** Continue below.
 
 ## 2. Grant Stezza access to your music library
@@ -33,7 +33,7 @@ Then force-quit Stezza and reopen it.
 
 If your music lives in Apple Music or iTunes Match, you need **Sync Library** enabled on the device.
 
-**Settings → Apps → Music → Sync Library** — make sure it's on.
+**Settings → Apps → Music → Sync Library**, make sure it's on.
 
 After turning it on, wait a few minutes for the library to populate. Large libraries can take 15+ minutes.
 
@@ -55,7 +55,7 @@ If everything above checks out and the library is still empty, a full device res
 
 ## 7. Check for a cable-sync in progress
 
-If you're mid-sync from a Mac or PC, the device's library can be in a transitional state. Let the sync finish completely — the sync indicator at the top of Finder or the Apple Music / iTunes window tells you when it's done.
+If you're mid-sync from a Mac or PC, the device's library can be in a transitional state. Let the sync finish completely. The sync indicator at the top of Finder or the Apple Music / iTunes window tells you when it's done.
 
 ## Still empty?
 

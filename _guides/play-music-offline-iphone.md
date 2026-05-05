@@ -1,7 +1,7 @@
 ---
 title: "How to Play Music Offline on iPhone"
 short_title: "Play Music Offline"
-description: "Everything you need to play music on iPhone with no internet — flights, subways, cellular dead zones, or just saving data."
+description: "Everything you need to play music on iPhone with no internet, flights, subways, cellular dead zones, or just saving data."
 category: "Getting Started"
 priority: 4
 item_id: "play-music-offline-iphone"
@@ -11,17 +11,17 @@ related:
   - apple-music-and-stezza
 ---
 
-Offline music is useful for more than just flights — it saves cellular data, keeps playing through tunnels and dead zones, and drains the battery less than constant streaming. Here's how to make sure your music plays with no internet at all.
+Offline music is useful for more than just flights, it saves cellular data, keeps playing through tunnels and dead zones, and drains the battery less than constant streaming. Here's how to make sure your music plays with no internet at all.
 
 ## The rule
 
 For music to play offline, it needs to be **on the device**, not in the cloud. That means either:
 
-1. **Synced from a computer** — tracks are stored on the iPhone's flash storage permanently.
-2. **Downloaded from Apple Music** — tracks fetched from the cloud and cached locally.
-3. **Downloaded from iTunes Match** — same principle, your own library fetched and cached.
+1. **Synced from a computer**, tracks are stored on the iPhone's flash storage permanently.
+2. **Downloaded from Apple Music**, tracks fetched from the cloud and cached locally.
+3. **Downloaded from iTunes Match**, same principle, your own library fetched and cached.
 
-Streaming-only tracks — the ones with a cloud icon next to them — require a network connection. They won't play offline.
+Streaming-only tracks, the ones with a cloud icon next to them, require a network connection. They won't play offline.
 
 ## Method 1: Sync from a computer (no subscription needed)
 
@@ -86,7 +86,7 @@ You can see exactly how much space is used and delete individual tracks or album
 As long as your subscription is active. If you cancel, downloaded Apple Music tracks stop playing (they're licensed, not owned).
 
 **Do downloaded tracks count against Apple Music's 100,000-track library limit?**
-Downloads don't change your library size — they just make existing library tracks available locally.
+Downloads don't change your library size, they just make existing library tracks available locally.
 
 **What if I run out of space mid-download?**
 Downloads fail gracefully. Delete some content and restart the download from the Music app.

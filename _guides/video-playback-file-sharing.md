@@ -10,15 +10,15 @@ related:
   - sync-music-windows-itunes
 ---
 
-In addition to music, Stezza plays **video files** you transfer directly to the app via **File Sharing** — the mechanism that lets you drop files straight into an iOS app's own storage from your computer. No iCloud, no library sync, no re-encoding through the Music app. Just drag and drop.
+In addition to music, Stezza plays **video files** you transfer directly to the app via **File Sharing**, the mechanism that lets you drop files straight into an iOS app's own storage from your computer. No iCloud, no library sync, no re-encoding through the Music app. Just drag and drop.
 
 This guide covers both the Mac (Finder) and Windows (iTunes) workflows.
 
 ## What you can transfer
 
-Stezza supports common video formats that iOS handles natively — typically **MP4, M4V, and MOV** files with H.264 or HEVC video. If iOS's built-in Videos or Files app can play it, Stezza can too.
+Stezza supports common video formats that iOS handles natively, typically **MP4, M4V, and MOV** files with H.264 or HEVC video. If iOS's built-in Videos or Files app can play it, Stezza can too.
 
-File Sharing is only for files you drop directly into Stezza. Videos in your device's general Photos library, or videos synced through the TV app, aren't touched by this flow — this is for files you want to keep specifically inside Stezza's own storage.
+File Sharing is only for files you drop directly into Stezza. Videos in your device's general Photos library, or videos synced through the TV app, aren't touched by this flow, this is for files you want to keep specifically inside Stezza's own storage.
 
 ## On a Mac (macOS Catalina or later): use Finder
 
@@ -42,7 +42,7 @@ Click the disclosure triangle next to **Stezza** to expand it. Any files already
 
 Drag video files from Finder directly onto the Stezza row. Alternatively, click Stezza and use the "..." or drag target to add files.
 
-Files copy over immediately — no separate sync step needed for File Sharing transfers.
+Files copy over immediately, no separate sync step needed for File Sharing transfers.
 
 ### 5. Open Stezza on your device
 
@@ -60,7 +60,7 @@ The small device icon appears near the top-left of iTunes, below the playback co
 
 ### 3. Click "File Sharing" in the left sidebar
 
-In the sidebar listing for your device, you'll see sections like Summary, Music, Movies, TV Shows, Podcasts, Books, Photos, Info — and **File Sharing** further down. Click it.
+In the sidebar listing for your device, you'll see sections like Summary, Music, Movies, TV Shows, Podcasts, Books, Photos, Info, and **File Sharing** further down. Click it.
 
 ### 4. Select Stezza
 
@@ -96,7 +96,7 @@ Make sure Stezza is installed on the connected device and fully launched at leas
 It's probably in a format iOS doesn't support natively (for example, MKV, AVI, or a less common codec). Convert to MP4 with H.264 video using a tool like HandBrake, then transfer the converted file.
 
 **Transferred videos aren't in the Photos app.**
-They shouldn't be — File Sharing puts files inside Stezza's own storage, not in Photos or the shared device media library. Open Stezza to see them.
+They shouldn't be, File Sharing puts files inside Stezza's own storage, not in Photos or the shared device media library. Open Stezza to see them.
 
 **Is this the same as syncing?**
 No. File Sharing copies files directly into Stezza and doesn't touch your music library or the Movies section of Finder/iTunes. It's a parallel mechanism, specifically for apps that want to accept files directly.

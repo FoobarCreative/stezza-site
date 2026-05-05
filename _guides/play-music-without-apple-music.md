@@ -15,7 +15,7 @@ The iPhone's built-in Music app leans hard toward Apple Music, which makes it ea
 
 ## You own the music, not Apple
 
-Before Apple Music launched in 2015, the iPhone was built entirely around a **library you owned** — ripped CDs, MP3 purchases, tracks you imported yourself. That model still works. Apple has added streaming features on top but hasn't removed the underlying "own your music" capability.
+Before Apple Music launched in 2015, the iPhone was built entirely around a **library you owned**, ripped CDs, MP3 purchases, tracks you imported yourself. That model still works. Apple has added streaming features on top but hasn't removed the underlying "own your music" capability.
 
 Any music you sync from a computer plays forever, offline, without a subscription.
 
@@ -23,10 +23,10 @@ Any music you sync from a computer plays forever, offline, without a subscriptio
 
 Start with a folder of audio files on your Mac or PC. Common sources:
 
-- **Ripped CDs** — the Music app (Mac) or iTunes (Windows) rips CDs directly to MP3 or AAC.
-- **Bought MP3s** — from stores like [Bandcamp](https://bandcamp.com/), [7digital](https://www.7digital.com/), or artists' own sites. These are DRM-free and yours forever.
-- **iTunes Store purchases** — DRM-free since 2009. Download them via the Music app (Mac) or iTunes (Windows) under **Account → Purchased**.
-- **Files you already have** — old MP3 collections, bandcamp downloads, whatever.
+- **Ripped CDs**, the Music app (Mac) or iTunes (Windows) rips CDs directly to MP3 or AAC.
+- **Bought MP3s**, from stores like [Bandcamp](https://bandcamp.com/), [7digital](https://www.7digital.com/), or artists' own sites. These are DRM-free and yours forever.
+- **iTunes Store purchases**, DRM-free since 2009. Download them via the Music app (Mac) or iTunes (Windows) under **Account → Purchased**.
+- **Files you already have**, old MP3 collections, bandcamp downloads, whatever.
 
 Supported formats that play on iPhone: **MP3, AAC/M4A, AIFF, WAV, ALAC (Apple Lossless)**. FLAC can be played via the Files app but doesn't integrate with the Music library the same way. WMA and OGG need converting to MP3 or AAC first.
 
@@ -53,19 +53,19 @@ Connect your iPhone and push the music across:
 
 With tracks on the device, you can use:
 
-- **The built-in Music app** — it still works perfectly for owned music. Tap **Library** at the bottom to browse. The search and playlists features all work without a subscription.
-- **A third-party player like [Stezza](/)** — reads the same library with a different UI, often better for driving or one-handed use.
+- **The built-in Music app**, it still works perfectly for owned music. Tap **Library** at the bottom to browse. The search and playlists features all work without a subscription.
+- **A third-party player like [Stezza](/)**, reads the same library with a different UI, often better for driving or one-handed use.
 
 Either way, tracks play offline with no network, no Apple ID sign-in required for playback.
 
 ## What you give up
 
-Honest accounting — without Apple Music:
+Honest accounting, without Apple Music:
 
 - **No streaming catalogue.** You can only play what you've added yourself.
 - **No auto-sync across devices.** New music on one device doesn't appear on others without you syncing it across.
 - **No curated playlists / radio stations** from the Music app.
-- **Lyrics may be missing** for some tracks — the Music app's lyrics feature pulls from Apple's catalogue.
+- **Lyrics may be missing** for some tracks, the Music app's lyrics feature pulls from Apple's catalogue.
 
 ## What you keep
 
@@ -83,4 +83,4 @@ Yes. The iTunes Store is still open for purchases on Mac and Windows, and purcha
 No. Stezza reads whatever's in your device's Music library, whether that came from Apple Music, iTunes Match, cable sync, or any combination. No subscription required.
 
 **Can I use this approach if my family shares Apple Music?**
-Yes — personal music you sync directly doesn't interact with the family subscription at all.
+Yes, personal music you sync directly doesn't interact with the family subscription at all.

@@ -11,13 +11,13 @@ related:
   - itunes-match-and-stezza
 ---
 
-A greyed-out song in your library means iOS thinks it exists, but can't currently play it. This behaviour comes from the Music library itself, not from Stezza — the same tracks are greyed out in the built-in Music app.
+A greyed-out song in your library means iOS thinks it exists, but can't currently play it. This behaviour comes from the Music library itself, not from Stezza, the same tracks are greyed out in the built-in Music app.
 
 There are a handful of common causes.
 
 ## 1. The track is cloud-only and you're offline
 
-If you use Apple Music or iTunes Match, tracks that aren't downloaded live in the cloud. With no network connection — aeroplane mode, no Wi-Fi, patchy cellular — cloud-only tracks can't play and show as greyed out.
+If you use Apple Music or iTunes Match, tracks that aren't downloaded live in the cloud. With no network connection, aeroplane mode, no Wi-Fi, patchy cellular, cloud-only tracks can't play and show as greyed out.
 
 **Fix:**
 - Reconnect to the internet, or
@@ -46,7 +46,7 @@ For iTunes Match users, tracks mid-match or mid-upload can appear greyed out tem
 Old DRM'd music purchased from the iTunes Store before 2009 (back when purchases were DRM-protected) can have playback issues on newer devices. Corrupted local files do the same.
 
 **Fix:**
-- For old DRM'd purchases, re-download from the iTunes Store — all current purchases are DRM-free.
+- For old DRM'd purchases, re-download from the iTunes Store, all current purchases are DRM-free.
 - For corrupted files, re-import from your original source.
 
 ## 6. Region restrictions

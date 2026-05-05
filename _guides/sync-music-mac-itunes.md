@@ -41,8 +41,8 @@ In the left sidebar under your device's name, click **Music**.
 Tick **Sync Music**.
 
 Then choose:
-- **Entire music library** — syncs everything in iTunes to the device.
-- **Selected playlists, artists, albums, and genres** — pick only what you want.
+- **Entire music library**, syncs everything in iTunes to the device.
+- **Selected playlists, artists, albums, and genres**, pick only what you want.
 
 ### 5. Click Apply (or Sync)
 
@@ -60,7 +60,7 @@ The device will appear in iTunes automatically when it's on the same Wi-Fi as th
 
 ## After syncing
 
-Open Stezza on your device. Your synced music appears automatically — Stezza reads from your device's Music library.
+Open Stezza on your device. Your synced music appears automatically, Stezza reads from your device's Music library.
 
 If the library looks empty, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).
 

@@ -11,7 +11,7 @@ related:
   - sync-music-mac-finder
 ---
 
-These two Apple services get confused constantly, partly because they overlap and partly because Apple markets them separately. Here's the short version — then the detail.
+These two Apple services get confused constantly, partly because they overlap and partly because Apple markets them separately. Here's the short version, then the detail.
 
 ## The short version
 
@@ -28,9 +28,9 @@ They are **separate products**, billed separately, and do different jobs. They c
 - Stream anything from Apple's full catalogue.
 - Download tracks for offline listening.
 - Curated playlists, radio stations, lyrics.
-- **Sync Library** (formerly "iCloud Music Library") — makes your personal music library available alongside the streaming catalogue across all your devices signed into the same Apple ID.
+- **Sync Library** (formerly "iCloud Music Library"), makes your personal music library available alongside the streaming catalogue across all your devices signed into the same Apple ID.
 
-**The Sync Library part matters.** If you're an Apple Music subscriber and turn on Sync Library, your own music (ripped CDs, purchases, imported files) gets uploaded to Apple's cloud and is available on every device — no cable sync required. This is effectively the same benefit iTunes Match gives you, bundled in.
+**The Sync Library part matters.** If you're an Apple Music subscriber and turn on Sync Library, your own music (ripped CDs, purchases, imported files) gets uploaded to Apple's cloud and is available on every device, no cable sync required. This is effectively the same benefit iTunes Match gives you, bundled in.
 
 **Catch:** when you cancel Apple Music, you lose access to the streaming catalogue. Your own music remains in the cloud for a while (grace period), but Apple doesn't commit to keeping your matched/uploaded personal library forever without a subscription.
 
@@ -40,7 +40,7 @@ They are **separate products**, billed separately, and do different jobs. They c
 
 **What you get:**
 - Scans your personal music library (up to 100,000 songs, excluding iTunes Store purchases which don't count against the limit).
-- For each track, Apple tries to match it against the iTunes Store catalogue. Matched tracks become available on all your devices as 256kbps AAC files — often better quality than what you ripped from CD.
+- For each track, Apple tries to match it against the iTunes Store catalogue. Matched tracks become available on all your devices as 256kbps AAC files, often better quality than what you ripped from CD.
 - Anything it can't match (rare tracks, your own recordings, live bootlegs) gets uploaded as-is.
 - Your library is then available on all devices signed into the same Apple ID, including iPhones, iPads, and other Macs/PCs.
 
@@ -50,7 +50,7 @@ They are **separate products**, billed separately, and do different jobs. They c
 
 ## Do they overlap?
 
-Yes — the "personal library in the cloud" feature is in both. If you subscribe to Apple Music, **you don't need iTunes Match separately**; Sync Library gives you the same locker function plus the streaming catalogue.
+Yes, the "personal library in the cloud" feature is in both. If you subscribe to Apple Music, **you don't need iTunes Match separately**; Sync Library gives you the same locker function plus the streaming catalogue.
 
 The only reason to pay for both is if you want Apple Music's streaming catalogue **and** you want a long-term cloud locker that persists if you ever cancel Apple Music. In practice, very few people need both.
 
@@ -75,7 +75,7 @@ Stezza plays whatever is in your device's Music library. That means:
 - Apple Music tracks (downloaded or streaming) → plays in Stezza.
 - iTunes Match tracks → plays in Stezza.
 
-Both services work — pick based on whether you want a streaming catalogue or just your own library in the cloud.
+Both services work, pick based on whether you want a streaming catalogue or just your own library in the cloud.
 
 ## See also
 

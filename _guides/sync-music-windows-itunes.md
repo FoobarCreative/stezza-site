@@ -11,14 +11,14 @@ related:
   - library-empty-troubleshooting
 ---
 
-On Windows, iTunes is still the most common way to get music onto an iPhone or iPad — particularly on Windows 10, or on Windows 11 if you haven't switched to the newer Apple Music app. This guide covers the full workflow.
+On Windows, iTunes is still the most common way to get music onto an iPhone or iPad, particularly on Windows 10, or on Windows 11 if you haven't switched to the newer Apple Music app. This guide covers the full workflow.
 
 > **On Windows 11?** You also have the option to use Apple's newer Microsoft Store apps. See [How to Sync Music from Windows 11 Using the Apple Music and Apple Devices Apps](/guides/sync-music-windows-apple-music-app) for that path.
 
 ## What you'll need
 
 - A Windows PC (Windows 10 or 11)
-- **iTunes for Windows** installed — download from [apple.com/itunes](https://www.apple.com/itunes/) or the Microsoft Store
+- **iTunes for Windows** installed, download from [apple.com/itunes](https://www.apple.com/itunes/) or the Microsoft Store
 - Your iPhone or iPad
 - A Lightning or USB-C cable
 - Music in your iTunes library on the PC
@@ -55,15 +55,15 @@ Check the box **Sync Music**.
 
 Choose what to sync:
 
-- **Entire music library** — everything in iTunes goes to the device.
-- **Selected playlists, artists, albums, and genres** — pick only what you want.
+- **Entire music library**, everything in iTunes goes to the device.
+- **Selected playlists, artists, albums, and genres**, pick only what you want.
 
 If you go with the second option, tick the items you want in the lists that appear.
 
 Optional tickboxes:
-- **Include music videos** — adds music videos if you have any.
-- **Include voice memos** — syncs Voice Memos across.
-- **Automatically fill free space with songs** — fills any leftover storage with random songs from your library.
+- **Include music videos**, adds music videos if you have any.
+- **Include voice memos**, syncs Voice Memos across.
+- **Automatically fill free space with songs**, fills any leftover storage with random songs from your library.
 
 ### 6. Click Apply (or Sync)
 
@@ -100,6 +100,6 @@ If you subscribe to Apple Music, your library already syncs through the cloud. S
 
 ## After syncing
 
-Open Stezza on your iPhone or iPad. Your synced music appears automatically — Stezza reads from the device's Music library.
+Open Stezza on your iPhone or iPad. Your synced music appears automatically, Stezza reads from the device's Music library.
 
 If your library still looks empty, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).

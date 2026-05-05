@@ -13,9 +13,9 @@ related:
 
 On Windows 11, Apple has split the job iTunes used to do into **three separate apps**, all available in the Microsoft Store:
 
-- **Apple Music** — manages your library and lets you play, buy, and download music.
-- **Apple TV** — for Apple TV+ content and iTunes movies/TV shows.
-- **Apple Devices** — handles device syncing, backups, and software updates.
+- **Apple Music**, manages your library and lets you play, buy, and download music.
+- **Apple TV**, for Apple TV+ content and iTunes movies/TV shows.
+- **Apple Devices**, handles device syncing, backups, and software updates.
 
 This guide covers the music sync workflow using **Apple Music** (for your library) and **Apple Devices** (for the actual sync).
 
@@ -24,8 +24,8 @@ This guide covers the music sync workflow using **Apple Music** (for your librar
 ## What you'll need
 
 - A PC running Windows 11
-- **Apple Music** app installed — from the Microsoft Store
-- **Apple Devices** app installed — from the Microsoft Store
+- **Apple Music** app installed, from the Microsoft Store
+- **Apple Devices** app installed, from the Microsoft Store
 - Your iPhone or iPad
 - A Lightning or USB-C cable
 - Music in your Apple Music app library on the PC
@@ -52,8 +52,8 @@ Click your device, then click **Music** in the tabs or side navigation.
 Check **Sync music onto [device name]**.
 
 Then choose:
-- **Entire music library** — copies everything from the Apple Music app's library to the device.
-- **Selected playlists, artists, albums, and genres** — pick what you want.
+- **Entire music library**, copies everything from the Apple Music app's library to the device.
+- **Selected playlists, artists, albums, and genres**, pick what you want.
 
 ## Step 5: Apply the sync
 
@@ -65,7 +65,7 @@ In the Apple Devices app, open the device's **General** tab, find **Show this de
 
 ## Apple Music subscribers: use Sync Library instead
 
-If you subscribe to Apple Music and have **Sync Library** turned on (in the Apple Music app's settings on Windows, and on the device), your library is already shared across devices through the cloud. In that case you don't need to cable-sync music at all — new additions propagate automatically.
+If you subscribe to Apple Music and have **Sync Library** turned on (in the Apple Music app's settings on Windows, and on the device), your library is already shared across devices through the cloud. In that case you don't need to cable-sync music at all, new additions propagate automatically.
 
 See [Does Stezza Work with Apple Music?](/guides/apple-music-and-stezza) for more on that flow.
 
@@ -84,6 +84,6 @@ The new apps are still maturing. If performance is consistently bad, iTunes for 
 
 ## After syncing
 
-Open Stezza on your iPhone or iPad. Synced music appears automatically — Stezza reads from your device's Music library.
+Open Stezza on your iPhone or iPad. Synced music appears automatically, Stezza reads from your device's Music library.
 
 If it's empty, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).

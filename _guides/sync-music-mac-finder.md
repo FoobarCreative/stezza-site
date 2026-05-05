@@ -11,7 +11,7 @@ related:
   - library-empty-troubleshooting
 ---
 
-If you're on **macOS Catalina (10.15) or later** — which is everything from late 2019 onward — iTunes has been split into separate Music, TV, Podcasts, and Books apps. Device syncing no longer lives inside the Music app. Instead, you manage it from **Finder**.
+If you're on **macOS Catalina (10.15) or later**, which is everything from late 2019 onward, iTunes has been split into separate Music, TV, Podcasts, and Books apps. Device syncing no longer lives inside the Music app. Instead, you manage it from **Finder**.
 
 This catches a lot of people out when they upgrade: "where did iTunes go?" The answer: the sync part moved to Finder; the library part moved to the Music app.
 
@@ -19,7 +19,7 @@ This catches a lot of people out when they upgrade: "where did iTunes go?" The a
 
 - A Mac running macOS Catalina (10.15) or later
 - Your iPhone or iPad
-- A Lightning or USB-C cable (or Wi-Fi sync, once you've enabled it — see below)
+- A Lightning or USB-C cable (or Wi-Fi sync, once you've enabled it, see below)
 - Music already in your **Music app** library on the Mac
 
 ## Step-by-step: sync over cable
@@ -44,8 +44,8 @@ Check the box **Sync music onto [device name]**.
 
 You now have two choices:
 
-- **Entire music library** — syncs everything the Music app has. Fastest to set up; uses the most space.
-- **Selected artists, albums, genres, and playlists** — gives you fine control over what goes on the device. Recommended if your full library won't fit.
+- **Entire music library**, syncs everything the Music app has. Fastest to set up; uses the most space.
+- **Selected artists, albums, genres, and playlists**, gives you fine control over what goes on the device. Recommended if your full library won't fit.
 
 If you pick the second option, tick the playlists, artists, albums, and genres you want in the lists below.
 
@@ -73,10 +73,10 @@ Your device's iOS version is older than the minimum supported by this version of
 By default, Finder-managed syncing replaces the device's music library with what's on your Mac. If you've been adding music directly to the iPhone, it'll be wiped on sync. To keep things you've added manually, enable **Manually manage music** in the **General** tab before syncing.
 
 **Apple Music subscribers: songs won't sync this way.**
-If you subscribe to Apple Music and have **Sync Library** enabled, your library already syncs over the cloud — you don't use Finder sync for those tracks. Finder sync is for music you own (ripped CDs, purchases, imported files). See [What is Apple Music, and does it work with Stezza?](/guides/apple-music-and-stezza) for the full picture.
+If you subscribe to Apple Music and have **Sync Library** enabled, your library already syncs over the cloud, you don't use Finder sync for those tracks. Finder sync is for music you own (ripped CDs, purchases, imported files). See [What is Apple Music, and does it work with Stezza?](/guides/apple-music-and-stezza) for the full picture.
 
 ## After the sync
 
-Open Stezza on your iPhone or iPad. Your synced music appears automatically — Stezza reads from the device's Music library, so anything the Music app sees, Stezza sees.
+Open Stezza on your iPhone or iPad. Your synced music appears automatically, Stezza reads from the device's Music library, so anything the Music app sees, Stezza sees.
 
 If the library looks empty after syncing, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).
