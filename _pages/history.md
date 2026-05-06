@@ -56,6 +56,8 @@ As CarPlay took over the in-dash app space, the AppRadio platform was wound down
 
 In May 2026, Stezza shipped its biggest release since 2.0 in 2014. **Stezza 3.0** is a top-to-bottom redesign built around Apple's **Liquid Glass** design language introduced in iOS 26. The classic Stezza DNA carried into a new generation of iPhone.
 
+![Three iPhones showing Stezza 3.0's Liquid Glass redesign: library, full-screen player and artist page]({{ "/assets/history/stezza-triple.jpg" | relative_url }})
+
 The headline change: your iPhone library and Apple Music now share the same stage. Two tabs at the top, the same player, the same queue. No more second-class library tab buried behind algorithmic feeds.
 
 What 3.0 introduced:
