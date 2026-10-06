@@ -5,6 +5,8 @@ permalink: /contact
 comments: false
 ---
 
+# Contact Us
+
 <form action="https://formspree.io/f/meokkaea" method="POST">    
 <p class="mb-4">Send us a message. We will reply as soon as possible!</p>
 <div class="form-group row">
