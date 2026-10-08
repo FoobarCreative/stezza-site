@@ -9,7 +9,7 @@ include_in_footer: true
 ---
 
 **Last updated**  
-October 2024
+October 2026
 
 # Privacy Policy
 
@@ -32,6 +32,33 @@ We may employ other companies to provide services on our behalf, such as custome
 The non-personally identifiable information collected is used internally for performance monitoring, bug fixes, and app improvements. This includes user locale, app version, operating system, and crash data.
 
 Any updates to our data collection practices will only apply to information collected after the policy change.
+
+### Autoplay and third-party AI processing of listening data
+
+Autoplay is an optional feature, currently in beta. When your play queue is about to end, Autoplay adds songs that fit what you have been listening to.
+
+Autoplay is off by default. When you turn it on, Stezza shows a consent sheet first. You can turn Autoplay off at any time in Settings, or with the infinity button in the Up Next queue. When you turn it off, Stezza stops sending listening data at once.
+
+**What Stezza sends to its server**
+
+When Autoplay is on and your queue is about to end, the app sends the following to Stezza's server, which runs on Google Cloud (Firebase Cloud Functions, us-central1 region in the United States):
+
+- Up to 10 recent songs from your queue: title, artist, album, genre, release year, and whether you played each song to the end, skipped it, or removed it.
+- Up to about 70 candidate songs from your music library and the Apple Music catalog: title, artist, album, genre and release year. For library songs, this also includes a play count and a coarse "last played" period (1 week, 1 month, 6 months, over 1 year, or never).
+- Your "allow explicit" setting, your Apple Music country code, and the app language.
+- A pseudonymous anonymous user ID created by Firebase. There is one ID per app install. It is not linked to your name or any account. Stezza uses it to authenticate the request and to apply a rate limit.
+
+Stezza does not send your name, email address, Apple Account, Apple Music user token, device identifiers, location, library file identifiers, or any song audio.
+
+**Third-party AI processor**
+
+Stezza's server sends the song details, without your anonymous user ID, to OpenAI (the OpenAI API). OpenAI's model chooses the songs to add to your queue. OpenAI states that data sent to its API is not used to train its models by default, and that it keeps API logs for abuse monitoring for up to 30 days. For current details, see [OpenAI's data controls documentation](https://developers.openai.com/api/docs/guides/your-data) and [OpenAI's enterprise privacy page](https://openai.com/enterprise-privacy/).
+
+**Retention and use**
+
+Stezza's server keeps a log of each Autoplay request for 30 days: the request contents, the songs chosen, timing, and the anonymous user ID. We use this log to check and improve the quality of the picks. After 30 days the log is deleted automatically. The server also keeps a small per-user counter (anonymous user ID and the number of calls in the current hour) for rate limiting.
+
+Stezza uses this data only to choose songs and to improve Autoplay. We do not sell it and we do not use it for advertising.
 
 ### Changes to this Privacy Policy
 
