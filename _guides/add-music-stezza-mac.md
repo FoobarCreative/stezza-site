@@ -37,7 +37,7 @@ You can also drag a file or a folder from Finder onto the Music window.
 
 **Import or Add To Library?** The menu item depends on one setting: **Music > Settings > Files > Copy files to Music Media folder when adding to library**. With the box ticked, the menu says **Import** and Music keeps its own copy of each file. With the box clear, the menu says **Add To Library** and Music only points at the original file. If you later move or delete the original, the song stops playing. Tick the box if you are not sure.
 
-Imported songs appear in Stezza the next time it refreshes the library. Quit and reopen Stezza if you do not see them.
+Switch back to Stezza. If the new songs do not show, quit Stezza and open it again.
 
 ## 2. Turn on Sync Library (Apple Music or iTunes Match)
 
@@ -79,7 +79,7 @@ The first time Stezza for Mac opens, macOS asks for permission to access your mu
 
 - Check the Music app first. If the Music app shows no songs, the problem is upstream. Work through steps 1 to 4 above.
 - Check the Apple Account in **Music > Account**. A library synced to a different Apple Account does not show up.
-- Quit Stezza and open it again after a large change to the library.
+- Quit Stezza and open it again after a change to the library. Stezza for Mac does not watch the library live.
 - Restart the Mac if the library still does not appear.
 
 For more causes and fixes, see [My Music Library Looks Empty in Stezza](/guides/library-empty-troubleshooting).

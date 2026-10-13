@@ -5,11 +5,16 @@ description: "Troubleshooting steps when your music library shows as empty or in
 category: "Troubleshooting"
 priority: 1
 item_id: "library-empty-troubleshooting"
+platforms:
+  - iphone
+  - ipad
+  - mac
 related:
   - enable-sync-library
   - songs-greyed-out
   - apple-music-and-stezza
   - itunes-match-and-stezza
+  - add-music-stezza-mac
 ---
 
 Stezza reads directly from your iOS device's **Music library**, the same library the built-in Music app uses. If Stezza looks empty, the problem is almost always with the library itself, not with Stezza. Work through this list.
@@ -57,11 +62,21 @@ If everything above checks out and the library is still empty, a full device res
 
 If you're mid-sync from a Mac or PC, the device's library can be in a transitional state. Let the sync finish completely. The sync indicator at the top of Finder or the Apple Music / iTunes window tells you when it's done.
 
+## Using Stezza on a Mac?
+
+Stezza for Mac reads the library of the **Music** app on the same Mac. The steps above are for iPhone and iPad. On a Mac, check these instead.
+
+1. **Open the Music app.** If its library is empty, Stezza is empty too. See [How to Add Music to Stezza on Your Mac](/guides/add-music-stezza-mac) to import files, turn on Sync Library, or download past purchases.
+2. **Give Stezza access.** Choose **Apple menu → System Settings → Privacy & Security → Media & Apple Music** and turn on the switch next to **Stezza**. Then quit Stezza and open it again.
+3. **Check Sync Library.** In the Music app choose **Music → Settings → General** and make sure **Sync Library** is ticked. Wait a few minutes for a large library.
+4. **Check the Apple Account.** In the Music app choose **Account** and confirm it is the account that owns your music.
+5. **Quit and reopen Stezza.** Stezza for Mac does not watch the library live. An empty library reloads when you switch back to Stezza. A library that already has songs refreshes on a pull-down on the home screen or on relaunch.
+
 ## Still empty?
 
 If none of the above helped, [get in touch]({{ "/contact" | relative_url }}) with:
 
-- Your iOS version (**Settings → General → About → iOS Version**)
+- Your iOS version (**Settings → General → About → iOS Version**), or your macOS version (**Apple menu → About This Mac**)
 - Whether you use Apple Music, iTunes Match, or neither
 - How your music got onto the device (cable sync, Sync Library, File Sharing, etc.)
 - Whether the built-in Music app shows the same problem
