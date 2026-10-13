@@ -5,6 +5,10 @@ description: "Apple Music and iTunes Match sound similar but do very different t
 category: "Apple Music & iTunes Match"
 priority: 1
 item_id: "apple-music-vs-itunes-match"
+platforms:
+  - iphone
+  - ipad
+  - mac
 related:
   - apple-music-and-stezza
   - itunes-match-and-stezza
