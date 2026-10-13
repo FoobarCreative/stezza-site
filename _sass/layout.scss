@@ -751,6 +751,20 @@ footer {
 	}
 }
 
+// The site-wide footer rule above uses flexbox, which lines the guide footer
+// paragraphs up side by side. Stack them with normal paragraph spacing instead.
+.guide-article .guide-footer {
+	display: block;
+	text-align: left;
+}
+.guide-article .guide-footer p {
+	margin: 0 0 1.2em;
+	line-height: 1.6;
+}
+.guide-article .guide-footer p:last-child {
+	margin-bottom: 0;
+}
+
 // Constrain guide screenshots to a sensible max width (roughly iPhone width)
 .guide-article.markdown-body img {
 	max-width: 414px;
