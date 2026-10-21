@@ -1,5 +1,7 @@
 ---
 title: "How to Sync Music from Windows to iPhone or iPad Using iTunes"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Sync from Windows (iTunes)"
 description: "Step-by-step guide to syncing your music library from a Windows PC to iPhone or iPad using iTunes for Windows."
 category: "Sync from Windows"

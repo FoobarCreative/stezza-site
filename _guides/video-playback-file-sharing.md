@@ -1,5 +1,7 @@
 ---
 title: "How to Copy Videos to Stezza Using iTunes or Finder File Sharing"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Copy Videos to Stezza"
 description: "Stezza plays video files transferred directly to the app via iTunes (Windows) or Finder (Mac). Here's how to copy them across."
 category: "Videos & File Sharing"

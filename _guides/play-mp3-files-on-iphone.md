@@ -1,5 +1,7 @@
 ---
 title: "How to Play MP3 Files on iPhone"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Play MP3s on iPhone"
 description: "The simplest ways to play MP3 files on iPhone or iPad, whether you want them in your main Music library or kept separate."
 category: "Getting Started"

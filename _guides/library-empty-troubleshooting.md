@@ -1,5 +1,7 @@
 ---
 title: "My Music Library Looks Empty in Stezza"
+date: 2026-04-24
+last_updated: 2026-10-13
 short_title: "Empty Library Troubleshooting"
 description: "Troubleshooting steps when your music library shows as empty or incomplete in Stezza."
 category: "Troubleshooting"

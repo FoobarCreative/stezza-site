@@ -1,5 +1,7 @@
 ---
 title: "How to Play Music Offline on iPhone"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Play Music Offline"
 description: "Everything you need to play music on iPhone with no internet, flights, subways, cellular dead zones, or just saving data."
 category: "Getting Started"

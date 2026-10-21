@@ -1,5 +1,7 @@
 ---
 title: "How to Play Your Music Library on iPhone"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Play Your Library on iPhone"
 description: "A plain-English guide to playing your own music library on an iPhone or iPad, whether you're coming from Android, new to iOS, or just want an alternative to Apple's built-in Music app."
 category: "Getting Started"

@@ -1,5 +1,7 @@
 ---
 title: "Apple Music vs iTunes Match: What's the Difference?"
+date: 2026-04-24
+last_updated: 2026-10-13
 short_title: "Apple Music vs iTunes Match"
 description: "Apple Music and iTunes Match sound similar but do very different things. Here's what each one is for, how they overlap, and which you actually need."
 category: "Apple Music & iTunes Match"

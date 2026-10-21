@@ -1,5 +1,7 @@
 ---
 title: "Does Stezza Work with iTunes Match?"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "iTunes Match + Stezza"
 description: "How iTunes Match interacts with Stezza, what plays, how to set it up, and whether you need it if you already have Apple Music."
 category: "Apple Music & iTunes Match"

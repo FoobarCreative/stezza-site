@@ -1,5 +1,7 @@
 ---
 title: "Does Stezza Work with Apple Music?"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Apple Music + Stezza"
 description: "How Apple Music subscriptions interact with Stezza, what plays, what doesn't, and how to make sure your library shows up."
 category: "Apple Music & iTunes Match"

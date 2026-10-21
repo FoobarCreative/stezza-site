@@ -1,5 +1,7 @@
 ---
 title: "How to Sync Music from Windows 11 Using the Apple Music and Apple Devices Apps"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Sync from Windows 11 (Apple apps)"
 description: "Apple now offers dedicated Apple Music and Apple Devices apps for Windows 11 that replace iTunes. Here's how to sync music using them."
 category: "Sync from Windows"

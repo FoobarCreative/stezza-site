@@ -1,5 +1,7 @@
 ---
 title: "How to Enable Sync Library on iPhone or iPad"
+date: 2026-04-28
+last_updated: 2026-05-05
 short_title: "Enable Sync Library"
 description: "Sync Library is the iOS setting that makes your Apple Music or iTunes Match library available across all your devices, and to apps like Stezza. Here's how to turn it on."
 category: "Apple Music & iTunes Match"

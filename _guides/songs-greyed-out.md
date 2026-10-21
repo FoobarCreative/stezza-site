@@ -1,5 +1,7 @@
 ---
 title: "Why Are Some Songs Greyed Out in My Music Library?"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Greyed-Out Songs"
 description: "Why some tracks appear greyed out or won't play in your Music library, and what you can do about it."
 category: "Troubleshooting"

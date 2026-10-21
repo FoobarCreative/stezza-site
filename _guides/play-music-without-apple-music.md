@@ -1,5 +1,7 @@
 ---
 title: "How to Play Music on iPhone Without Apple Music"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Play Music Without Apple Music"
 description: "You don't need an Apple Music subscription to play music on iPhone. Here's how to build a proper music library without paying monthly."
 category: "Getting Started"

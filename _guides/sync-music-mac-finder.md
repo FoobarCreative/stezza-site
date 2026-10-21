@@ -1,5 +1,7 @@
 ---
 title: "How to Sync Music from a Mac to iPhone or iPad (macOS Catalina or Later)"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Sync from Mac (Catalina+)"
 description: "On macOS Catalina and later, music syncs through Finder instead of iTunes. Here's the full walkthrough for getting your music library onto your iPhone or iPad."
 category: "Sync from Mac"

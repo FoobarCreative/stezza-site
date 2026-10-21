@@ -1,5 +1,7 @@
 ---
 title: "How to Sync Music from a Mac to iPhone or iPad Using iTunes (macOS Mojave or Earlier)"
+date: 2026-04-24
+last_updated: 2026-05-05
 short_title: "Sync from Mac (iTunes)"
 description: "Step-by-step guide to syncing music from a Mac running macOS Mojave or earlier using iTunes. For Catalina and later, see the Finder guide."
 category: "Sync from Mac"
