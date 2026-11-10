@@ -6,10 +6,11 @@ comments: false
 imageshadow: false
 include_in_header: false
 include_in_footer: true
+last_updated: 2026-11-11
 ---
 
 **Last updated**  
-October 2026
+November 2026
 
 # Privacy Policy
 
@@ -59,6 +60,31 @@ Stezza's server sends the song details, without your anonymous user ID, to OpenA
 Stezza's server keeps a log of each Autoplay request for 30 days: the request contents, the songs chosen, timing, and the anonymous user ID. We use this log to check and improve the quality of the picks. After 30 days the log is deleted automatically. The server also keeps a small per-user counter (anonymous user ID and the number of calls in the current hour) for rate limiting.
 
 Stezza uses this data only to choose songs and to improve Autoplay. We do not sell it and we do not use it for advertising.
+
+### Mixtape and third-party AI processing of your prompt
+
+Mixtape is an optional feature, currently in preview, for Apple Music subscribers. You type a short text prompt, for example "rainy sunday indie", and Mixtape builds a playlist of songs that fit it. Nothing is sent until you submit a prompt.
+
+**What Stezza sends to its server**
+
+When you submit a prompt, the app sends the following to Stezza's server, which runs on Google Cloud (Firebase Cloud Functions, us-central1 region in the United States):
+
+- Your prompt text (3 to 200 characters).
+- The number of songs you asked for and your "allow explicit" setting.
+- Your Apple Music country code and the app language.
+- The same pseudonymous anonymous user ID created by Firebase that Autoplay uses. Stezza uses it to authenticate the request and to apply a daily limit.
+
+Stezza does not send your name, email address, Apple Account, Apple Music user token, device identifiers, location, or the contents of your music library.
+
+**Third-party AI processor**
+
+Stezza's server sends your prompt text, the song count, your country code and your explicit setting, without your anonymous user ID, to OpenAI (the OpenAI API). OpenAI's model returns a list of song titles and artists. The app then matches that list against your music library on your device and the Apple Music catalog, and plays the songs it finds. OpenAI's data handling is described in the Autoplay section above.
+
+**Retention and use**
+
+Stezza's server keeps a log of each Mixtape request for 30 days: the prompt, the songs returned, timing, and the anonymous user ID. We use this log to check and improve the quality of the playlists. After 30 days the log is deleted automatically. The server also keeps a small per-user counter (anonymous user ID and the number of requests in the current day) to enforce a limit of 100 requests a day.
+
+Your last 20 prompts are stored only on your device so you can reuse them. You can clear this history at any time in the Mixtape screen. Stezza uses Mixtape data only to build playlists and to improve Mixtape. We do not sell it and we do not use it for advertising.
 
 ### Changes to this Privacy Policy
 
