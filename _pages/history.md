@@ -3,7 +3,8 @@ layout: page
 title: History
 permalink: /history
 include_in_header: true
-description: "A look back at Stezza's journey since 2013, from a Metro-inspired iPhone music player to Stezza 3.0, built on iOS 26's Liquid Glass design."
+description: "A look back at Stezza's journey since 2013, from a Metro-inspired iPhone music player to Stezza 3.0 on iOS 26's Liquid Glass design and Stezza 3.3 on the Mac."
+last_updated: 2026-11-11
 ---
 
 # A Brief History of Stezza
@@ -69,6 +70,26 @@ What 3.0 introduced:
 - **Full accessibility support** for VoiceOver, Dynamic Type and motor-friendly targets, carried forward from previous versions.
 
 Everything Stezza set out to do in 2013 still applies. The platform around it just looks different now.
+
+---
+
+## Stezza 3.3: Stezza Comes to the Mac
+
+In October 2026, thirteen years after the first iPhone release, Stezza arrived on the Mac App Store. **Stezza 3.3** is the same app, built with Mac Catalyst and listed on the App Store together with the iPhone and iPad versions. One free download, every device.
+
+![Stezza 3.3 on a Mac next to an iPhone, both showing the full-screen player with the same big playback buttons]({{ "/assets/history/stezza-mac-hero.jpg" | relative_url }})
+
+The Mac version plays the Music library on your Mac and Apple Music, with the same two tabs, the same player and the same queue as the iPhone. The big-button philosophy from 2013 turns out to suit a desktop just as well as a car mount: the full player scales its text up in a large window and fits a short one, and the landscape player puts Up Next beside the artwork.
+
+![Stezza 3.3 library view on a Mac, with Recently Played, Recently Added and Albums rows of album art]({{ "/assets/history/stezza-mac-library.jpg" | relative_url }})
+
+What 3.3 brought with it:
+
+- **Stezza on Mac**: your Mac's Music library and Apple Music in the same simple player, with Play, Pause, Next and Previous in the Dock icon menu.
+- **Playlist sync** across iPhone, iPad and Mac when they use the same iCloud account.
+- **Autoplay (Preview)**: when your queue ends, Stezza keeps playing songs that fit what you have been listening to. Turn it on in Settings.
+- **An Allow Explicit setting**, with an E badge on explicit songs.
+- A new album page header, a song count in Up Next, and other improvements.
 
 For a full list of every release going back to 2013, see the [changelog]({{ "/changelog" | relative_url }}).
 
