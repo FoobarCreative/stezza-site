@@ -22,6 +22,28 @@ Stezza is now on Mac. Play your music library on your Mac with the same simple p
 - New Allow Explicit setting, and an E badge on explicit songs.
 - A new album page header, a song count in Up Next, and other improvements.
 
+## 3.2.1, September 2026
+
+Ready for iOS 27, with fixes for album artwork that failed to load and a mini player that could disappear.
+
+## 3.2, June 2026
+
+Introducing Playlists! Create your own playlists from your music library and Apple Music, add songs from anywhere, and set custom artwork.
+
+- Add to Playlist from the player, search results, artist pages and your library
+- Your playlists at the top of Home, above the Apple Music playlists
+- Plus other improvements and bug fixes
+
+## 3.1, May 2026
+
+Stezza for the car is back. Big buttons, glanceable controls, made for the road.
+
+- Car Mode turns on when your car's Bluetooth connects, and off when it disconnects
+- Fixed lag and unresponsiveness reported after the 3.0 update
+- The alphabet section index is back
+- Album tracks in your library are sorted by disc and track number
+- 3.1.1 to 3.1.4: playback and artwork fixes, and a log file you can attach to a support email
+
 ## 3.0, May 2026
 
 A full redesign. Apple Music and your library, on the same stage.
