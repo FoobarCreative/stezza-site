@@ -13,6 +13,15 @@ Every Stezza release since launch in 2013, newest first.
 
 ---
 
+## 3.3, October 2026
+
+Stezza is now on Mac. Play your music library on your Mac with the same simple player.
+
+- New: Autoplay (Preview). When your queue ends, Stezza keeps playing songs that fit what you have been listening to. Turn it on in Settings.
+- Your playlists now sync across your iPhone, iPad and Mac when they use the same iCloud account.
+- New Allow Explicit setting, and an E badge on explicit songs.
+- A new album page header, a song count in Up Next, and other improvements.
+
 ## 3.0, May 2026
 
 A full redesign. Apple Music and your library, on the same stage.
