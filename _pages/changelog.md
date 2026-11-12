@@ -13,6 +13,13 @@ Every Stezza release since launch in 2013, newest first.
 
 ---
 
+## 3.4, November 2026
+
+New: Mixtape (Preview). Describe the music you want to hear, like "rainy sunday indie", or pick a few words like "dreamy", "late night" and "indie". Stezza starts playing songs that fit, and Autoplay keeps the music going. Find it on the Apple Music tab of the Home screen.
+
+- Stezza now uses the full screen of iPhone Duo, open or closed
+- Plus other fixes and improvements
+
 ## 3.3, October 2026
 
 Stezza is now on Mac. Play your music library on your Mac with the same simple player.
